@@ -1,0 +1,14 @@
+C:\Users\P10\source\repos\Todolists\Todolists\bin\Debug\net8.0\Todolists.exe
+C:\Users\P10\source\repos\Todolists\Todolists\bin\Debug\net8.0\Todolists.deps.json
+C:\Users\P10\source\repos\Todolists\Todolists\bin\Debug\net8.0\Todolists.runtimeconfig.json
+C:\Users\P10\source\repos\Todolists\Todolists\bin\Debug\net8.0\Todolists.dll
+C:\Users\P10\source\repos\Todolists\Todolists\bin\Debug\net8.0\Todolists.pdb
+C:\Users\P10\source\repos\Todolists\Todolists\obj\Debug\net8.0\Todolists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P10\source\repos\Todolists\Todolists\obj\Debug\net8.0\Todolists.AssemblyInfoInputs.cache
+C:\Users\P10\source\repos\Todolists\Todolists\obj\Debug\net8.0\Todolists.AssemblyInfo.cs
+C:\Users\P10\source\repos\Todolists\Todolists\obj\Debug\net8.0\Todolists.csproj.CoreCompileInputs.cache
+C:\Users\P10\source\repos\Todolists\Todolists\obj\Debug\net8.0\Todolists.dll
+C:\Users\P10\source\repos\Todolists\Todolists\obj\Debug\net8.0\refint\Todolists.dll
+C:\Users\P10\source\repos\Todolists\Todolists\obj\Debug\net8.0\Todolists.pdb
+C:\Users\P10\source\repos\Todolists\Todolists\obj\Debug\net8.0\Todolists.genruntimeconfig.cache
+C:\Users\P10\source\repos\Todolists\Todolists\obj\Debug\net8.0\ref\Todolists.dll

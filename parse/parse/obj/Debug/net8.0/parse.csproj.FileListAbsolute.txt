@@ -1,0 +1,14 @@
+C:\Users\P10\source\repos\parse\parse\bin\Debug\net8.0\parse.exe
+C:\Users\P10\source\repos\parse\parse\bin\Debug\net8.0\parse.deps.json
+C:\Users\P10\source\repos\parse\parse\bin\Debug\net8.0\parse.runtimeconfig.json
+C:\Users\P10\source\repos\parse\parse\bin\Debug\net8.0\parse.dll
+C:\Users\P10\source\repos\parse\parse\bin\Debug\net8.0\parse.pdb
+C:\Users\P10\source\repos\parse\parse\obj\Debug\net8.0\parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P10\source\repos\parse\parse\obj\Debug\net8.0\parse.AssemblyInfoInputs.cache
+C:\Users\P10\source\repos\parse\parse\obj\Debug\net8.0\parse.AssemblyInfo.cs
+C:\Users\P10\source\repos\parse\parse\obj\Debug\net8.0\parse.csproj.CoreCompileInputs.cache
+C:\Users\P10\source\repos\parse\parse\obj\Debug\net8.0\parse.dll
+C:\Users\P10\source\repos\parse\parse\obj\Debug\net8.0\refint\parse.dll
+C:\Users\P10\source\repos\parse\parse\obj\Debug\net8.0\parse.pdb
+C:\Users\P10\source\repos\parse\parse\obj\Debug\net8.0\parse.genruntimeconfig.cache
+C:\Users\P10\source\repos\parse\parse\obj\Debug\net8.0\ref\parse.dll
