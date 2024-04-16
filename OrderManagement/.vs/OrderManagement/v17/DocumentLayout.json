@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P10\\source\\repos\\OrderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\ordermanagement\\ordermanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\ordermanagement\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\ordermanagement\\ordermanagement\\services\\serviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\services\\serviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\ordermanagement\\ordermanagement\\services\\iserviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\services\\iserviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\ordermanagement\\ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceClass.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\OrderManagement\\OrderManagement\\Services\\ServiceClass.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Services\\ServiceClass.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\OrderManagement\\OrderManagement\\Services\\ServiceClass.cs",
+              "RelativeToolTip": "OrderManagement\\Services\\ServiceClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:54:08.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\OrderManagement\\OrderManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\OrderManagement\\OrderManagement\\appsettings.json",
+              "RelativeToolTip": "OrderManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T11:30:53.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\OrderManagement\\OrderManagement\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\OrderManagement\\OrderManagement\\Program.cs",
+              "RelativeToolTip": "OrderManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:55:59.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\OrderManagement\\OrderManagement\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\OrderManagement\\OrderManagement\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "OrderManagement\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAUwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:45:39.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IserviceClass.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\OrderManagement\\OrderManagement\\Services\\IserviceClass.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Services\\IserviceClass.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\OrderManagement\\OrderManagement\\Services\\IserviceClass.cs",
+              "RelativeToolTip": "OrderManagement\\Services\\IserviceClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:53:32.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
