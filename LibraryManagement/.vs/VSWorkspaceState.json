@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "\\OrderManagement",
+    "\\OrderManagement\\Controllers",
+    "\\OrderManagement\\Model",
+    "\\OrderManagement\\Models",
+    "\\OrderManagement\\Services"
+  ],
+  "PreviewInSolutionExplorer": false
+}
