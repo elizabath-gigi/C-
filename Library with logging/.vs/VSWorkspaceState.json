@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Log4NetSample.Solution",
+    "\\Log4NetSample.Solution\\Log4NetSample.Solution",
+    "\\Log4NetSample.Solution\\Log4NetSample.Solution\\Log4NetSample.ConsoleApp",
+    "\\OrderManagement",
+    "\\OrderManagement\\Controllers",
+    "\\OrderManagement\\Models",
+    "\\OrderManagement\\Services"
+  ],
+  "SelectedNode": "\\Log4NetSample.Solution\\Log4NetSample.Solution\\Log4NetSample.ConsoleApp\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

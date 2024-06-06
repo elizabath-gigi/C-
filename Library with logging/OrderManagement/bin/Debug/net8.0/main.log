@@ -1,0 +1,6 @@
+2024-06-06 15:36:25,487 [5] INFO OrderManagement.Services.ServiceClass.MoveNext[41] - The contents of the Library DB is retrieved
+2024-06-06 15:36:35,387 [9] INFO OrderManagement.Services.ServiceClass.MoveNext[41] - The contents of the Library DB is retrieved
+2024-06-06 16:18:28,831 [1] INFO Program.<Main>$[15] - Application started.
+2024-06-06 16:20:27,795 [20] INFO OrderManagement.Services.ServiceClass.MoveNext[60] - The details of the book is added successfully to DB
+2024-06-06 16:21:30,018 [24] INFO OrderManagement.Services.ServiceClass.MoveNext[60] - The details of the book is added successfully to DB
+2024-06-06 16:22:00,049 [24] INFO OrderManagement.Services.ServiceClass.MoveNext[90] - The details of the book is deleted successfully to DB
