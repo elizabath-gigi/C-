@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9mpiPWyGhT+VAAMzD1P/UawMEeqWHoV3+/kYXPsWm4IiHT4QCOfUu2EpbZL/fNZ+xFSoatrfbgajvjn02kAh5A==",
+  "dgSpecHash": "9WUmfyKm/LH/BiNqrhH4HS4wfHTI6i4purd26VdmlBUXAtWJRuiw5OQC3ipF5Yeot3806fk3G7JEIvqVW2v//w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\P10\\source\\repos\\Library\\log4net\\log4net.csproj",
+  "projectFilePath": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\log4net\\log4net.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

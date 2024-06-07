@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MZD0wiDRV6sfTkMe00apMrZr1GM0iKV9QbGOdqFKcrCiuZRPGGjFiyabgQeyiDFA4McpnrTV7nMw8E9da5rXOA==",
+  "dgSpecHash": "VqzU3Q7fUQAP2DFvPznjc5/IjkNqPqpcy5b10rMe9hVj6Rxp7+QyNZBsFk6dK8gSmcRFHNO04ws6vNEaQDeFVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\OrderManagement.csproj",
+  "projectFilePath": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\OrderManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\P10\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\P10\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

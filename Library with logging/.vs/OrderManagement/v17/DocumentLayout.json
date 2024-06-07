@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\P10\\source\\repos\\Library\\",
+  "WorkspaceRootPath": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\services\\serviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\services\\serviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\services\\serviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\interface\\iserviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\interface\\iserviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\interface\\iserviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B479965-6BA1-439F-A27A-2BDB52389DD3}|log4net\\log4net.csproj|c:\\users\\p10\\source\\repos\\library\\log4net\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B479965-6BA1-439F-A27A-2BDB52389DD3}|log4net\\log4net.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\log4net\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B479965-6BA1-439F-A27A-2BDB52389DD3}|log4net\\log4net.csproj|solutionrelative:log4net\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\ordermanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\ordermanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\ordermanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\ordermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\ordermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\ordermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B479965-6BA1-439F-A27A-2BDB52389DD3}|log4net\\log4net.csproj|c:\\users\\p10\\source\\repos\\library\\log4net\\log4net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1B479965-6BA1-439F-A27A-2BDB52389DD3}|log4net\\log4net.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\log4net\\log4net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1B479965-6BA1-439F-A27A-2BDB52389DD3}|log4net\\log4net.csproj|solutionrelative:log4net\\log4net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\library\\ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\c-\\library with logging\\ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -68,166 +68,154 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "log4net.config",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\log4net.config",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\log4net.config",
               "RelativeDocumentMoniker": "OrderManagement\\log4net.config",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\log4net.config",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\log4net.config",
               "RelativeToolTip": "OrderManagement\\log4net.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-06T09:13:02.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T09:13:02.882Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "log4net.config",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\log4net.config",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\log4net.config",
               "RelativeDocumentMoniker": "OrderManagement\\log4net.config",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\log4net.config",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\log4net.config",
               "RelativeToolTip": "OrderManagement\\log4net.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-06T09:04:09.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T09:04:09.986Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "OrderManagement",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\OrderManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\OrderManagement.csproj",
               "RelativeDocumentMoniker": "OrderManagement\\OrderManagement.csproj",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\OrderManagement.csproj",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\OrderManagement.csproj",
               "RelativeToolTip": "OrderManagement\\OrderManagement.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-06T08:59:29.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:59:29.981Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "OrderManagement",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\OrderManagement.csproj",
+              "Title": "OrderManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\OrderManagement.csproj",
               "RelativeDocumentMoniker": "OrderManagement\\OrderManagement.csproj",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\OrderManagement.csproj",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\OrderManagement.csproj",
               "RelativeToolTip": "OrderManagement\\OrderManagement.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-06T08:59:26.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:59:26.406Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "log4net",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\log4net\\log4net.csproj",
+              "Title": "log4net.csproj",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\log4net\\log4net.csproj",
               "RelativeDocumentMoniker": "log4net\\log4net.csproj",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\log4net\\log4net.csproj",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\log4net\\log4net.csproj",
               "RelativeToolTip": "log4net\\log4net.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-06T08:59:21.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:59:21.196Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\log4net\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\log4net\\Class1.cs",
               "RelativeDocumentMoniker": "log4net\\Class1.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\log4net\\Class1.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\log4net\\Class1.cs",
               "RelativeToolTip": "log4net\\Class1.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:59:13.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:59:13.35Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ServiceClass.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Services\\ServiceClass.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Services\\ServiceClass.cs",
               "RelativeDocumentMoniker": "OrderManagement\\Services\\ServiceClass.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Services\\ServiceClass.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Services\\ServiceClass.cs",
               "RelativeToolTip": "OrderManagement\\Services\\ServiceClass.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAwwEAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T13:24:07.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T13:24:07.43Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IserviceClass.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Interface\\IserviceClass.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Interface\\IserviceClass.cs",
               "RelativeDocumentMoniker": "OrderManagement\\Interface\\IserviceClass.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Interface\\IserviceClass.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Interface\\IserviceClass.cs",
               "RelativeToolTip": "OrderManagement\\Interface\\IserviceClass.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAkwAwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T13:23:58.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T13:23:58.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Models\\Library.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Models\\Library.cs",
               "RelativeDocumentMoniker": "OrderManagement\\Models\\Library.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Models\\Library.cs",
               "RelativeToolTip": "OrderManagement\\Models\\Library.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T13:22:24.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T13:22:24.402Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "LibraryContext.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Models\\LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Models\\LibraryContext.cs",
               "RelativeDocumentMoniker": "OrderManagement\\Models\\LibraryContext.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Models\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Models\\LibraryContext.cs",
               "RelativeToolTip": "OrderManagement\\Models\\LibraryContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T09:06:00.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T09:06:00.716Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Program.cs",
               "RelativeDocumentMoniker": "OrderManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Program.cs",
               "RelativeToolTip": "OrderManagement\\Program.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAAABoAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T12:02:33.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T12:02:33.74Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\appsettings.json",
               "RelativeDocumentMoniker": "OrderManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\appsettings.json",
               "RelativeToolTip": "OrderManagement\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-17T11:56:39.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T11:56:39.939Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LibraryController.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Controllers\\LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Controllers\\LibraryController.cs",
               "RelativeDocumentMoniker": "OrderManagement\\Controllers\\LibraryController.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\Controllers\\LibraryController.cs",
               "RelativeToolTip": "OrderManagement\\Controllers\\LibraryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABJAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCoAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T10:45:39.968Z",
               "EditorCaption": ""

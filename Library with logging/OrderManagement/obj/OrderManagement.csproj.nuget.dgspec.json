@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\OrderManagement.csproj": {}
+    "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\OrderManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\OrderManagement.csproj": {
+    "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\OrderManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\OrderManagement.csproj",
+        "projectUniqueName": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\OrderManagement.csproj",
         "projectName": "OrderManagement",
-        "projectPath": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\OrderManagement.csproj",
+        "projectPath": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\OrderManagement.csproj",
         "packagesPath": "C:\\Users\\P10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P10\\source\\repos\\Library\\OrderManagement\\obj\\",
+        "outputPath": "C:\\Users\\P10\\source\\repos\\C-\\Library with logging\\OrderManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
