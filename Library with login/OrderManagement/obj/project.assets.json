@@ -5345,11 +5345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\P10\\source\\repos\\Library with login\\OrderManagement\\OrderManagement.csproj",
+      "projectUniqueName": "C:\\Users\\P10\\source\\repos\\C-\\Library with login\\OrderManagement\\OrderManagement.csproj",
       "projectName": "OrderManagement",
-      "projectPath": "C:\\Users\\P10\\source\\repos\\Library with login\\OrderManagement\\OrderManagement.csproj",
+      "projectPath": "C:\\Users\\P10\\source\\repos\\C-\\Library with login\\OrderManagement\\OrderManagement.csproj",
       "packagesPath": "C:\\Users\\P10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\P10\\source\\repos\\Library with login\\OrderManagement\\obj\\",
+      "outputPath": "C:\\Users\\P10\\source\\repos\\C-\\Library with login\\OrderManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

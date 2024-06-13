@@ -34,3 +34,37 @@
 2024-06-12 15:50:35,097 [1] INFO Program.<Main>$[18] - Application started.
 2024-06-12 15:51:52,300 [1] INFO Program.<Main>$[18] - Application started.
 2024-06-12 15:54:10,974 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 11:46:26,516 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 17:19:11,546 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 17:20:07,057 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-13 17:20:22,021 [15] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-13 17:22:02,071 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-13 17:22:31,788 [10] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-13 17:23:22,173 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-13 17:24:18,359 [25] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - User with email elizabathgigi@gmail.com or username Elizabath Gigi registered successfully.
+2024-06-13 17:24:58,829 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - Unable to authenticate user ElizabathGigi
+2024-06-13 17:25:16,622 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - User with username Elizabath Gigi login successfully.
+2024-06-13 17:26:08,462 [28] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - User with username Elizabath Gigi reset password successfully.
+2024-06-13 17:29:04,037 [32] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the User DB is retrieved
+2024-06-13 17:31:39,103 [31] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the User DB is retrieved
+2024-06-13 17:33:45,067 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 17:47:11,459 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 17:47:32,189 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[29] - The user DB is null
+2024-06-13 17:47:32,219 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[31] - The contents of the User DB is retrieved
+2024-06-13 17:47:40,139 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[29] - The user DB is null
+2024-06-13 17:47:40,140 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[31] - The contents of the User DB is retrieved
+2024-06-13 17:47:50,735 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[45] - The library DB is null
+2024-06-13 17:47:50,736 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[47] - The contents of the Library DB is retrieved
+2024-06-13 17:49:25,160 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 17:49:35,446 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[29] - The user DB is null
+2024-06-13 17:49:35,450 [9] INFO OrderManagement.Services.LibraryServices.MoveNext[31] - The contents of the User DB is retrieved
+2024-06-13 17:50:20,704 [18] DEBUG OrderManagement.Services.LibraryServices.MoveNext[72] - Unable to authenticate user string
+2024-06-13 17:56:33,915 [15] DEBUG OrderManagement.Services.LibraryServices.MoveNext[29] - The user DB is null
+2024-06-13 17:56:33,916 [15] INFO OrderManagement.Services.LibraryServices.MoveNext[31] - The contents of the User DB is retrieved
+2024-06-13 18:12:24,085 [24] INFO OrderManagement.Services.LibraryServices.MoveNext[62] - User with email eliza@gmail.com or username El  registered successfully.
+2024-06-13 18:12:38,365 [27] DEBUG OrderManagement.Services.LibraryServices.MoveNext[48] - User with email eliza@gmail.com or username El  already exists.
+2024-06-13 18:14:43,072 [25] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - User with email eliza@gmail.com or username El  already exists.
+2024-06-13 18:20:26,146 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 18:21:52,936 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[56] - The book doesn't exist in the DB, so retrieval failed
+2024-06-13 18:55:18,808 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 18:59:04,834 [1] INFO Program.<Main>$[18] - Application started.

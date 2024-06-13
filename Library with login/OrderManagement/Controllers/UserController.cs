@@ -18,7 +18,21 @@ public class UserController : ControllerBase
         _authenticationService = authenticationService;
     }
 
-    
+    [AllowAnonymous]
+    [HttpGet("getUsers")]
+    [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(string))]
+    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
+    public async Task<IActionResult> GetUsers()
+    {
+        var response = await _authenticationService.GetUsers();
+        if(response.Count == 0) 
+        { 
+            return NotFound("No users found");
+        }
+
+        return Ok(response);
+    }
 
     [AllowAnonymous]
     [HttpPost("register")]
