@@ -18,11 +18,8 @@ public class UserController : ControllerBase
         _authenticationService = authenticationService;
     }
 
-    [AllowAnonymous]
     [HttpGet("getUsers")]
-    [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(string))]
-    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    [ProducesResponseType(StatusCodes.Status400BadRequest)]
+   
     public async Task<IActionResult> GetUsers()
     {
         var response = await _authenticationService.GetUsers();
@@ -36,10 +33,8 @@ public class UserController : ControllerBase
 
     [AllowAnonymous]
     [HttpPost("register")]
-    [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(string))]
-    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<IActionResult> Register([FromBody] RegisterRequestDto request)
+   
+    public async Task<IActionResult> Register(RegisterRequestDto request)
     {
         var response = await _authenticationService.Register(request);
 
@@ -48,22 +43,18 @@ public class UserController : ControllerBase
 
     [AllowAnonymous]
     [HttpPost("login")]
-    [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(string))]
-    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<IActionResult> Login([FromBody] LoginRequestDto request)
+    
+    public async Task<IActionResult> Login(LoginRequestDto request)
     {
         var response = await _authenticationService.Login(request);
 
         return Ok(response);
     }
 
-
+    [AllowAnonymous]
     [HttpPut("reset-password")]
-    [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(string))]
-    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<IActionResult> ResetPassword([FromBody] ResetRequestDto request)
+    
+    public async Task<IActionResult> ResetPassword(ResetRequestDto request)
     {
         var response = await _authenticationService.Reset(request);
         return Ok(response);

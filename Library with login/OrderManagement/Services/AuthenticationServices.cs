@@ -1,6 +1,4 @@
 ﻿using System.Security.Cryptography;
-using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.EntityFrameworkCore;
 using OrderManagement.Models;
 using OrderManagement.DTOs;
@@ -14,13 +12,12 @@ namespace OrderManagement.Services
     public class AuthenticationServices : IAuthenticationServices
     {
         private readonly LibraryContext _context;
-        private readonly IConfiguration _configuration;
         private static readonly log4net.ILog log = log4net.LogManager.GetLogger(typeof(LibraryServices));
 
-        public AuthenticationServices(LibraryContext context, IConfiguration configuration)
+        public AuthenticationServices(LibraryContext context)
         {
             _context = context;
-            _configuration = configuration;
+          
         }
         public async Task<List<User>> GetUsers()
         {

@@ -68,3 +68,27 @@
 2024-06-13 18:21:52,936 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[56] - The book doesn't exist in the DB, so retrieval failed
 2024-06-13 18:55:18,808 [1] INFO Program.<Main>$[18] - Application started.
 2024-06-13 18:59:04,834 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-14 11:31:40,019 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-14 11:32:47,588 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[49] - The details of the book is added successfully to DB
+2024-06-14 11:33:37,773 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[37] - The book doesn't exist in the DB, so retrieval failed
+2024-06-14 11:34:00,853 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[27] - The user DB is null
+2024-06-14 11:34:00,920 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 15:15:39,842 [106] DEBUG OrderManagement.Services.LibraryServices.MoveNext[27] - The user DB is null
+2024-06-14 15:15:39,844 [106] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 15:15:54,031 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-14 15:16:10,620 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[27] - The user DB is null
+2024-06-14 15:16:10,623 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 15:17:06,289 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[60] - User with email elizabathgigi@gmail.com or username Elizabath registered successfully.
+2024-06-14 15:17:35,308 [20] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 15:53:40,358 [1] INFO Program.<Main>$[16] - Application started.
+2024-06-14 15:54:00,130 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 16:10:55,897 [15] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 16:11:46,898 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[60] - User with email maria@gmail.com or username MariaSabi registered successfully.
+2024-06-14 16:12:18,661 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[74] - User with username MariaSabi login successfully.
+2024-06-14 16:12:55,662 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[90] - User with username MariaSabi reset password successfully.
+2024-06-14 16:13:17,456 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[70] - Unable to authenticate user MariaSabi
+2024-06-14 16:13:40,789 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[85] - Unable to authenticate user MariaSabi
+2024-06-14 16:13:44,186 [22] DEBUG OrderManagement.Services.LibraryServices.MoveNext[85] - Unable to authenticate user MariaSabi
+2024-06-14 16:14:09,033 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[74] - User with username MariaSabi login successfully.
+2024-06-14 16:14:34,156 [17] DEBUG OrderManagement.Services.LibraryServices.MoveNext[46] - User with email maria@gmail.com or username MariaSabi already exists.
+2024-06-14 16:16:17,762 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved

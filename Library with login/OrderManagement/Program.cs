@@ -4,9 +4,7 @@ using OrderManagement.Services;
 using Microsoft.EntityFrameworkCore;
 using log4net;
 using log4net.Config;
-using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.Extensions.DependencyInjection;
+
 
 [assembly: XmlConfigurator(ConfigFile = "log4net.config", Watch = true)]
 
@@ -26,12 +24,6 @@ builder.Services.AddDbContext<LibraryContext>(options =>
 builder.Services.AddScoped<ILibraryServices, LibraryServices>();
 builder.Services.AddScoped<IAuthenticationServices, AuthenticationServices>();
 
-builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-        .AddCookie(options =>
-        {
-            options.LoginPath = "/User/Login"; // Redirect to login if not authenticated
-            options.AccessDeniedPath = "/User/AccessDenied"; // Redirect if access denied
-        });
 
 
 
