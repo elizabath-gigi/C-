@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\services\\dynamiclibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\services\\dynamiclibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\controllers\\dynamiclibrarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\controllers\\dynamiclibrarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\interface\\idynamiclibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\interface\\idynamiclibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\services\\libraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\services\\libraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\interface\\ilibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\interface\\ilibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\services\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\services\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\interface\\iauthenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\interface\\iauthenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\ordermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\ordermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\ordermanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\ordermanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\exceptions\\argumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\exceptions\\argumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\exceptions\\csvexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\exceptions\\csvexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\dtos\\resetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\resetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|c:\\users\\p10\\source\\repos\\dynamic bulk upload\\ordermanagement\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FABBCCC5-1A07-46F9-A8E8-37B234B92A7D}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\P10\\source\\repos\\Library with exceptions\\log4net\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicLibraryServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Services\\DynamicLibraryServices.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Services\\DynamicLibraryServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Services\\DynamicLibraryServices.cs",
+              "RelativeToolTip": "OrderManagement\\Services\\DynamicLibraryServices.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAQwKAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:40:34.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDynamicLibraryServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Interface\\IDynamicLibraryServices.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Interface\\IDynamicLibraryServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Interface\\IDynamicLibraryServices.cs",
+              "RelativeToolTip": "OrderManagement\\Interface\\IDynamicLibraryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:40:03.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicLibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Controllers\\DynamicLibraryController.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Controllers\\DynamicLibraryController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Controllers\\DynamicLibraryController.cs",
+              "RelativeToolTip": "OrderManagement\\Controllers\\DynamicLibraryController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:35:27.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Services\\LibraryServices.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Services\\LibraryServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Services\\LibraryServices.cs",
+              "RelativeToolTip": "OrderManagement\\Services\\LibraryServices.cs",
+              "ViewState": "AQIAADwBAAAAAAAAAAAUwFYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:31:54.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "OrderManagement\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAADwv3MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:45:39.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibraryServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Interface\\ILibraryServices.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Interface\\ILibraryServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Interface\\ILibraryServices.cs",
+              "RelativeToolTip": "OrderManagement\\Interface\\ILibraryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:23:58.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Services\\AuthenticationServices.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Services\\AuthenticationServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Services\\AuthenticationServices.cs",
+              "RelativeToolTip": "OrderManagement\\Services\\AuthenticationServices.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAkwMcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:31:15.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CSVException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Exceptions\\CSVException.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Exceptions\\CSVException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Exceptions\\CSVException.cs",
+              "RelativeToolTip": "OrderManagement\\Exceptions\\CSVException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:54:51.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OrderManagement\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwDsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:05:40.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Program.cs",
+              "RelativeToolTip": "OrderManagement\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwFMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:02:33.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Models\\Library.cs",
+              "RelativeToolTip": "OrderManagement\\Models\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:22:24.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthenticationServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Interface\\IAuthenticationServices.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Interface\\IAuthenticationServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Interface\\IAuthenticationServices.cs",
+              "RelativeToolTip": "OrderManagement\\Interface\\IAuthenticationServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:18:58.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\appsettings.json",
+              "RelativeToolTip": "OrderManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T11:56:39.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderManagement",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\OrderManagement.csproj",
+              "RelativeDocumentMoniker": "OrderManagement\\OrderManagement.csproj",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\OrderManagement.csproj",
+              "RelativeToolTip": "OrderManagement\\OrderManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T08:59:29.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Models\\User.cs",
+              "RelativeToolTip": "OrderManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:54:38.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\log4net.config",
+              "RelativeDocumentMoniker": "OrderManagement\\log4net.config",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\log4net.config",
+              "RelativeToolTip": "OrderManagement\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T09:13:02.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\OrderManagement.csproj",
+              "RelativeDocumentMoniker": "OrderManagement\\OrderManagement.csproj",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\OrderManagement.csproj",
+              "RelativeToolTip": "OrderManagement\\OrderManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T08:59:26.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Models\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Models\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Models\\LibraryContext.cs",
+              "RelativeToolTip": "OrderManagement\\Models\\LibraryContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA0wAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:06:00.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResetRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\DTOs\\ResetRequestDto.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\ResetRequestDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\DTOs\\ResetRequestDto.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\ResetRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:03:26.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ArgumentsException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Exceptions\\ArgumentsException.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Exceptions\\ArgumentsException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Exceptions\\ArgumentsException.cs",
+              "RelativeToolTip": "OrderManagement\\Exceptions\\ArgumentsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:24:24.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\DTOs\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\DTOs\\RegisterRequestDto.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:50:00.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:47:25.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IdNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Exceptions\\IdNotFoundException.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Exceptions\\IdNotFoundException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\Exceptions\\IdNotFoundException.cs",
+              "RelativeToolTip": "OrderManagement\\Exceptions\\IdNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:29:05.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\log4net.config",
+              "RelativeDocumentMoniker": "OrderManagement\\log4net.config",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\dynamic bulk upload\\OrderManagement\\log4net.config",
+              "RelativeToolTip": "OrderManagement\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T09:04:09.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Library with exceptions\\log4net\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Library with exceptions\\log4net\\Class1.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Library with exceptions\\log4net\\Class1.cs",
+              "RelativeToolTip": "..\\Library with exceptions\\log4net\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAMBdwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:59:13.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
