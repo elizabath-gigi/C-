@@ -1,0 +1,365 @@
+2024-06-06 15:36:25,487 [5] INFO OrderManagement.Services.ServiceClass.MoveNext[41] - The contents of the Library DB is retrieved
+2024-06-06 15:36:35,387 [9] INFO OrderManagement.Services.ServiceClass.MoveNext[41] - The contents of the Library DB is retrieved
+2024-06-06 16:18:28,831 [1] INFO Program.<Main>$[15] - Application started.
+2024-06-06 16:20:27,795 [20] INFO OrderManagement.Services.ServiceClass.MoveNext[60] - The details of the book is added successfully to DB
+2024-06-06 16:21:30,018 [24] INFO OrderManagement.Services.ServiceClass.MoveNext[60] - The details of the book is added successfully to DB
+2024-06-06 16:22:00,049 [24] INFO OrderManagement.Services.ServiceClass.MoveNext[90] - The details of the book is deleted successfully to DB
+2024-06-07 17:41:39,370 [1] INFO Program.<Main>$[15] - Application started.
+2024-06-07 17:42:47,926 [17] DEBUG OrderManagement.Services.ServiceClass.MoveNext[43] - The book doesn't exist in the DB, so retrieval failed
+2024-06-07 18:00:39,859 [1] INFO Program.<Main>$[15] - Application started.
+2024-06-07 18:01:19,626 [7] DEBUG OrderManagement.Services.ServiceClass.MoveNext[44] - The book doesn't exist in the DB, so retrieval failed
+2024-06-07 18:10:34,332 [1] INFO Program.<Main>$[15] - Application started.
+2024-06-07 18:23:56,708 [15] DEBUG OrderManagement.Services.ServiceClass.MoveNext[44] - The book doesn't exist in the DB, so retrieval failed
+2024-06-10 12:05:44,567 [1] INFO Program.<Main>$[15] - Application started.
+2024-06-10 12:08:38,025 [1] INFO Program.<Main>$[15] - Application started.
+2024-06-10 12:08:58,867 [7] DEBUG OrderManagement.Controllers.LibraryController.MoveNext[44] - The book doesn't exist in the DB, so retrieval failed
+2024-06-10 12:09:41,417 [16] INFO OrderManagement.Controllers.LibraryController.MoveNext[65] - The details of the book is added successfully to DB
+2024-06-10 12:09:55,868 [16] INFO OrderManagement.Controllers.LibraryController.MoveNext[99] - The details of the book is deleted successfully from DB
+2024-06-10 12:10:04,883 [16] INFO OrderManagement.Controllers.LibraryController.MoveNext[30] - The contents of the Library DB is retrieved
+2024-06-12 10:13:25,864 [1] INFO Program.<Main>$[15] - Application started.
+2024-06-12 10:13:54,950 [7] INFO OrderManagement.Controllers.LibraryController.MoveNext[30] - The contents of the Library DB is retrieved
+2024-06-12 11:53:56,832 [1] INFO Program.<Main>$[15] - Application started.
+2024-06-12 12:09:20,920 [1] INFO Program.<Main>$[16] - Application started.
+2024-06-12 13:30:20,926 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 13:35:37,899 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 13:39:59,414 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 13:41:32,331 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 13:41:41,829 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 13:43:35,430 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 13:43:45,645 [5] INFO OrderManagement.Controllers.LibraryController.MoveNext[32] - The contents of the Library DB is retrieved
+2024-06-12 14:13:22,146 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 14:57:28,039 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 15:42:49,803 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 15:47:09,118 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 15:50:35,097 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 15:51:52,300 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-12 15:54:10,974 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 11:46:26,516 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 17:19:11,546 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 17:20:07,057 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-13 17:20:22,021 [15] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-13 17:22:02,071 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-13 17:22:31,788 [10] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-13 17:23:22,173 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-13 17:24:18,359 [25] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - User with email elizabathgigi@gmail.com or username Elizabath Gigi registered successfully.
+2024-06-13 17:24:58,829 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - Unable to authenticate user ElizabathGigi
+2024-06-13 17:25:16,622 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - User with username Elizabath Gigi login successfully.
+2024-06-13 17:26:08,462 [28] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - User with username Elizabath Gigi reset password successfully.
+2024-06-13 17:29:04,037 [32] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the User DB is retrieved
+2024-06-13 17:31:39,103 [31] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the User DB is retrieved
+2024-06-13 17:33:45,067 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 17:47:11,459 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 17:47:32,189 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[29] - The user DB is null
+2024-06-13 17:47:32,219 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[31] - The contents of the User DB is retrieved
+2024-06-13 17:47:40,139 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[29] - The user DB is null
+2024-06-13 17:47:40,140 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[31] - The contents of the User DB is retrieved
+2024-06-13 17:47:50,735 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[45] - The library DB is null
+2024-06-13 17:47:50,736 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[47] - The contents of the Library DB is retrieved
+2024-06-13 17:49:25,160 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 17:49:35,446 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[29] - The user DB is null
+2024-06-13 17:49:35,450 [9] INFO OrderManagement.Services.LibraryServices.MoveNext[31] - The contents of the User DB is retrieved
+2024-06-13 17:50:20,704 [18] DEBUG OrderManagement.Services.LibraryServices.MoveNext[72] - Unable to authenticate user string
+2024-06-13 17:56:33,915 [15] DEBUG OrderManagement.Services.LibraryServices.MoveNext[29] - The user DB is null
+2024-06-13 17:56:33,916 [15] INFO OrderManagement.Services.LibraryServices.MoveNext[31] - The contents of the User DB is retrieved
+2024-06-13 18:12:24,085 [24] INFO OrderManagement.Services.LibraryServices.MoveNext[62] - User with email eliza@gmail.com or username El  registered successfully.
+2024-06-13 18:12:38,365 [27] DEBUG OrderManagement.Services.LibraryServices.MoveNext[48] - User with email eliza@gmail.com or username El  already exists.
+2024-06-13 18:14:43,072 [25] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - User with email eliza@gmail.com or username El  already exists.
+2024-06-13 18:20:26,146 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 18:21:52,936 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[56] - The book doesn't exist in the DB, so retrieval failed
+2024-06-13 18:55:18,808 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-13 18:59:04,834 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-14 11:31:40,019 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-14 11:32:47,588 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[49] - The details of the book is added successfully to DB
+2024-06-14 11:33:37,773 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[37] - The book doesn't exist in the DB, so retrieval failed
+2024-06-14 11:34:00,853 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[27] - The user DB is null
+2024-06-14 11:34:00,920 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 15:15:39,842 [106] DEBUG OrderManagement.Services.LibraryServices.MoveNext[27] - The user DB is null
+2024-06-14 15:15:39,844 [106] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 15:15:54,031 [1] INFO Program.<Main>$[18] - Application started.
+2024-06-14 15:16:10,620 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[27] - The user DB is null
+2024-06-14 15:16:10,623 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 15:17:06,289 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[60] - User with email elizabathgigi@gmail.com or username Elizabath registered successfully.
+2024-06-14 15:17:35,308 [20] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 15:53:40,358 [1] INFO Program.<Main>$[16] - Application started.
+2024-06-14 15:54:00,130 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 16:10:55,897 [15] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-14 16:11:46,898 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[60] - User with email maria@gmail.com or username MariaSabi registered successfully.
+2024-06-14 16:12:18,661 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[74] - User with username MariaSabi login successfully.
+2024-06-14 16:12:55,662 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[90] - User with username MariaSabi reset password successfully.
+2024-06-14 16:13:17,456 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[70] - Unable to authenticate user MariaSabi
+2024-06-14 16:13:40,789 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[85] - Unable to authenticate user MariaSabi
+2024-06-14 16:13:44,186 [22] DEBUG OrderManagement.Services.LibraryServices.MoveNext[85] - Unable to authenticate user MariaSabi
+2024-06-14 16:14:09,033 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[74] - User with username MariaSabi login successfully.
+2024-06-14 16:14:34,156 [17] DEBUG OrderManagement.Services.LibraryServices.MoveNext[46] - User with email maria@gmail.com or username MariaSabi already exists.
+2024-06-14 16:16:17,762 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[29] - The contents of the User DB is retrieved
+2024-06-18 11:03:00,262 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-18 11:08:03,383 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-18 11:08:59,937 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[32] - The contents of the User DB is retrieved
+2024-06-18 11:09:01,883 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[32] - The contents of the User DB is retrieved
+2024-06-18 11:09:57,688 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[63] - User with email elizabath@gmail.com or username ElizabathGigi registered successfully.
+2024-06-18 11:11:15,696 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[78] - User with username Elizabath login successfully.
+2024-06-18 11:12:32,031 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-18 11:13:06,812 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[78] - User with username Elizabath login successfully.
+2024-06-18 11:33:40,031 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-18 11:34:10,479 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[78] - User with username Elizabath login successfully.
+2024-06-18 11:34:40,839 [17] INFO OrderManagement.Services.LibraryServices.MoveNext[28] - The contents of the Library DB is retrieved
+2024-06-18 11:35:08,288 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[49] - The details of the book is added successfully to DB
+2024-06-18 11:40:00,256 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-18 11:51:05,754 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-18 11:52:12,071 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[78] - User with username Elizabath login successfully.
+2024-06-19 15:33:16,126 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 15:40:20,539 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 15:44:35,818 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 15:46:31,991 [17] INFO OrderManagement.Services.LibraryServices.MoveNext[82] - User with username Elizabathgigi login successfully.
+2024-06-19 15:49:09,329 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 15:49:55,965 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[82] - User with username Elizabathgigi login successfully.
+2024-06-19 15:57:06,478 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 15:58:12,248 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[82] - User with username Elizabathgigi login successfully.
+2024-06-19 16:01:09,113 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 16:01:42,663 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[82] - User with username Elizabathgigi login successfully.
+2024-06-19 16:04:08,093 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 16:07:18,768 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 16:08:50,110 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 16:12:26,318 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 16:13:39,776 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 16:27:48,691 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 16:32:09,840 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 16:33:36,203 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[68] - The contents of the Library DB is retrieved
+2024-06-19 16:36:19,742 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 16:38:50,589 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 17:16:33,415 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 17:22:13,958 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-19 17:22:43,179 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[66] - Books added from library.csvand added to DB successfully.
+2024-06-19 17:22:52,742 [9] INFO OrderManagement.Services.LibraryServices.MoveNext[76] - The contents of the Library DB is retrieved
+2024-06-20 10:27:28,640 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 10:37:02,171 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[82] - User with username Elizabathgigi login successfully.
+2024-06-20 10:37:35,075 [22] DEBUG OrderManagement.Services.LibraryServices.MoveNext[66] - Books added from library.csvand added to DB successfully.
+2024-06-20 10:37:43,196 [22] INFO OrderManagement.Services.LibraryServices.MoveNext[76] - The contents of the Library DB is retrieved
+2024-06-20 11:45:52,665 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 11:46:28,245 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[101] - Books added from Library.csvand added to DB successfully.
+2024-06-20 11:46:42,389 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[111] - The contents of the Library DB is retrieved
+2024-06-20 11:48:01,716 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 11:48:20,679 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[60] - CSV header does not match the expected format, Bulk Upload failed
+2024-06-20 11:55:46,425 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 11:56:17,894 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[73] - CSV contains empty or null fields, Bulk Upload failed
+2024-06-20 12:07:01,584 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 12:09:20,814 [21] INFO OrderManagement.Services.LibraryServices.MoveNext[135] - The contents of the Library DB is retrieved
+2024-06-20 12:09:40,174 [3] DEBUG OrderManagement.Services.LibraryServices.MoveNext[125] - Books added from Library.csvand added to DB successfully.
+2024-06-20 12:09:48,897 [23] INFO OrderManagement.Services.LibraryServices.MoveNext[135] - The contents of the Library DB is retrieved
+2024-06-20 12:10:09,244 [23] INFO OrderManagement.Services.LibraryServices.MoveNext[135] - The contents of the Library DB is retrieved
+2024-06-20 12:19:13,529 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 12:19:47,057 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[135] - The contents of the Library DB is retrieved
+2024-06-20 12:20:17,998 [21] INFO OrderManagement.Services.LibraryServices.MoveNext[189] - The details of the book is deleted successfully from DB
+2024-06-20 12:20:26,741 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[189] - The details of the book is deleted successfully from DB
+2024-06-20 12:20:31,891 [21] INFO OrderManagement.Services.LibraryServices.MoveNext[135] - The contents of the Library DB is retrieved
+2024-06-20 12:20:44,948 [21] INFO OrderManagement.Services.LibraryServices.MoveNext[189] - The details of the book is deleted successfully from DB
+2024-06-20 12:20:50,518 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[189] - The details of the book is deleted successfully from DB
+2024-06-20 12:20:56,106 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[184] - The book is not found from DB, delete failed
+2024-06-20 12:21:00,340 [22] INFO OrderManagement.Services.LibraryServices.MoveNext[135] - The contents of the Library DB is retrieved
+2024-06-20 12:21:23,624 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[189] - The details of the book is deleted successfully from DB
+2024-06-20 12:21:30,434 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[189] - The details of the book is deleted successfully from DB
+2024-06-20 12:21:35,542 [23] INFO OrderManagement.Services.LibraryServices.MoveNext[189] - The details of the book is deleted successfully from DB
+2024-06-20 12:21:40,472 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[189] - The details of the book is deleted successfully from DB
+2024-06-20 12:21:47,771 [23] INFO OrderManagement.Services.LibraryServices.MoveNext[135] - The contents of the Library DB is retrieved
+2024-06-20 12:24:02,963 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 12:24:18,140 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[125] - Books added from Library.csvand added to DB successfully.
+2024-06-20 12:24:25,995 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[135] - The contents of the Library DB is retrieved
+2024-06-20 12:26:04,247 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 12:26:19,565 [13] DEBUG OrderManagement.Services.LibraryServices.MoveNext[126] - Books added from Library.csvand added to DB successfully.
+2024-06-20 12:26:26,022 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[136] - The contents of the Library DB is retrieved
+2024-06-20 13:19:04,449 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 13:19:25,217 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[105] - Books added from Library.csv and added to DB successfully.
+2024-06-20 13:19:30,628 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[116] - The contents of the Library DB is retrieved
+2024-06-20 13:21:25,410 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 13:22:27,200 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[105] - Books added from Library.csv and added to DB successfully.
+2024-06-20 13:22:45,070 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[116] - The contents of the Library DB is retrieved
+2024-06-20 15:23:12,031 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-20 15:26:34,871 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[125] - The contents of the Library DB is retrieved
+2024-06-20 15:27:03,681 [16] DEBUG OrderManagement.Services.LibraryServices.MoveNext[111] - Books added from Library.csv and added to DB successfully.
+2024-06-20 15:27:15,601 [18] INFO OrderManagement.Services.LibraryServices.MoveNext[125] - The contents of the Library DB is retrieved
+2024-06-20 15:27:58,519 [16] DEBUG OrderManagement.Services.LibraryServices.MoveNext[82] - CSV contains empty or null fields, Bulk Upload failed
+2024-06-20 15:28:09,261 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[125] - The contents of the Library DB is retrieved
+2024-06-20 15:54:08,786 [25] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - CSV contains empty or null fields, Bulk Upload failed
+2024-06-21 13:29:19,012 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 13:30:45,975 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[87] - Unable to authenticate user Elizabathgigi
+2024-06-21 13:30:47,817 [17] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 13:31:27,962 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[46] - File doesn't exist, Bulk Upload failed
+2024-06-21 13:32:50,130 [3] DEBUG OrderManagement.Services.LibraryServices.MoveNext[106] - Books added from Library.csv and added to DB successfully.
+2024-06-21 13:32:57,676 [18] INFO OrderManagement.Services.LibraryServices.MoveNext[120] - The contents of the Library DB is retrieved
+2024-06-21 13:33:13,582 [3] DEBUG OrderManagement.Services.LibraryServices.MoveNext[106] - Books added from Library.csv and added to DB successfully.
+2024-06-21 13:33:31,247 [18] INFO OrderManagement.Services.LibraryServices.MoveNext[120] - The contents of the Library DB is retrieved
+2024-06-21 13:33:47,827 [17] DEBUG OrderManagement.Services.LibraryServices.MoveNext[46] - File doesn't exist, Bulk Upload failed
+2024-06-21 13:33:57,928 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[63] - CSV header does not match the expected format, Bulk Upload failed
+2024-06-21 13:34:09,052 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[77] - CSV contains empty or null fields, Bulk Upload failed
+2024-06-21 13:54:55,125 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 14:23:04,817 [14] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 14:23:37,027 [14] DEBUG OrderManagement.Services.LibraryServices.MoveNext[106] - Books added from Library.csv and added to DB successfully.
+2024-06-21 14:23:44,999 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[120] - The contents of the Library DB is retrieved
+2024-06-21 14:23:54,036 [14] DEBUG OrderManagement.Services.LibraryServices.MoveNext[106] - Books added from Library.csv and added to DB successfully.
+2024-06-21 14:24:40,931 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[106] - Books added from Library.csv and added to DB successfully.
+2024-06-21 14:24:46,497 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[120] - The contents of the Library DB is retrieved
+2024-06-21 14:24:59,870 [15] DEBUG OrderManagement.Services.LibraryServices.MoveNext[63] - CSV header does not match the expected format, Bulk Upload failed
+2024-06-21 14:25:25,616 [15] DEBUG OrderManagement.Services.LibraryServices.MoveNext[77] - CSV contains empty or null fields, Bulk Upload failed
+2024-06-21 15:13:44,307 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 15:14:33,582 [10] DEBUG OrderManagement.Services.LibraryServices.MoveNext[87] - Unable to authenticate user Elizabathgigi@1
+2024-06-21 15:14:47,339 [17] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 15:15:20,105 [10] DEBUG OrderManagement.Services.LibraryServices.MoveNext[106] - Books added from Library.csv and added to DB successfully.
+2024-06-21 15:15:28,865 [10] INFO OrderManagement.Services.LibraryServices.MoveNext[120] - The contents of the Library DB is retrieved
+2024-06-21 15:30:52,342 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 15:43:55,748 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 15:44:42,203 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 15:45:19,682 [18] DEBUG OrderManagement.Services.LibraryServices.MoveNext[87] - Unable to authenticate user Elizabathgigi@1
+2024-06-21 15:45:27,319 [17] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 15:45:57,058 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-21 15:46:10,377 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 15:48:46,618 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 15:48:53,330 [18] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 15:52:49,501 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 15:53:24,294 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 15:53:52,664 [20] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:14:30,588 [13] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:14:32,926 [9] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:14:37,132 [18] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:15:04,681 [21] INFO OrderManagement.Services.LibraryServices.MoveNext[138] - The details of the book is retrieved
+2024-06-21 16:19:39,320 [22] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:22:25,865 [22] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-21 16:22:47,644 [10] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The details of the book is retrieved
+2024-06-21 16:24:24,044 [29] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-21 16:24:28,926 [26] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-21 16:24:50,882 [26] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - CSV header does not match the expected format, Bulk Upload failed
+2024-06-21 16:25:01,376 [10] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - CSV contains empty or null fields, at row 2
+2024-06-21 16:25:01,622 [26] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - Books added from Library-2.csv and added to DB successfully.
+2024-06-21 16:25:10,850 [26] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-21 16:25:50,934 [26] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - CSV contains empty or null fields, at row 2
+2024-06-21 16:25:51,001 [24] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - Books added from Library-2.csv and added to DB successfully.
+2024-06-21 16:25:56,710 [26] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-21 16:28:03,053 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 16:29:28,446 [18] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 16:30:00,647 [10] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:31:26,769 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:31:34,357 [17] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:50:26,680 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 16:51:05,217 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 16:51:37,283 [9] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:52:18,208 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:52:41,176 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:52:47,622 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:53:03,822 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:53:51,461 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:54:11,502 [18] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:54:25,633 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[138] - The details of the book is retrieved
+2024-06-21 16:54:27,188 [18] INFO OrderManagement.Services.LibraryServices.MoveNext[138] - The details of the book is retrieved
+2024-06-21 16:55:49,921 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:56:44,692 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 16:58:46,243 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 16:59:16,400 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 16:59:39,661 [18] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:01:11,234 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:01:16,513 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:08:16,934 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 17:08:49,952 [15] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 17:09:16,236 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:10:23,227 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:11:05,234 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:11:07,958 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:20:00,266 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:20:08,165 [14] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:20:28,498 [23] DEBUG OrderManagement.Services.LibraryServices.MoveNext[112] - Books added from Library.csv and added to DB successfully.
+2024-06-21 17:25:52,601 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 17:26:38,283 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 17:28:54,300 [21] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:37:51,509 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 17:40:30,560 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 17:42:19,671 [1] INFO Program.<Main>$[20] - Application started.
+2024-06-21 17:42:49,453 [17] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 17:43:17,517 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:45:11,188 [22] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:45:18,509 [22] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:54:35,839 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-21 17:55:09,552 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 17:55:39,680 [13] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:57:27,848 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:57:34,468 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 17:57:39,575 [22] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 18:01:58,445 [16] INFO OrderManagement.Services.LibraryServices.MoveNext[126] - The contents of the Library DB is retrieved
+2024-06-21 18:04:47,635 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - User with username Elizabathgigi login successfully.
+2024-06-21 18:05:11,810 [15] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-21 18:07:15,979 [29] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - User with username Elizabathgigi login successfully.
+2024-06-21 18:08:44,650 [29] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-21 18:09:46,918 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-21 18:10:23,118 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-21 18:12:07,877 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - User with username Elizabathgigi login successfully.
+2024-06-21 18:12:33,290 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-24 12:35:49,099 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 12:38:49,613 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 12:39:37,284 [18] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username Elizabathgigi login successfully.
+2024-06-24 12:40:07,460 [21] DEBUG OrderManagement.Services.LibraryServices.MoveNext[232] - The page number exceeds the limit, retrieval failed
+2024-06-24 12:41:29,773 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - User with username Elizabathgigi login successfully.
+2024-06-24 12:41:58,359 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB from page 1 is retrieved
+2024-06-24 12:42:10,614 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB from page 1 is retrieved
+2024-06-24 12:42:14,930 [13] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB from page 1 is retrieved
+2024-06-24 12:42:23,644 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB from page 1 is retrieved
+2024-06-24 12:46:26,344 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 12:46:54,212 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[241] - The contents of the Library DB from page 1 is retrieved
+2024-06-24 12:51:26,659 [22] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB from page 1 is retrieved
+2024-06-24 14:29:08,592 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 14:29:49,393 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[199] - The contents of the Library DB from page 1 is retrieved
+2024-06-24 14:30:56,761 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 15:29:34,315 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 15:30:02,672 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[48] - File doesn't exist, Bulk Upload failed
+2024-06-24 15:30:16,149 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[48] - File doesn't exist, Bulk Upload failed
+2024-06-24 15:30:20,102 [10] DEBUG OrderManagement.Services.LibraryServices.MoveNext[48] - File doesn't exist, Bulk Upload failed
+2024-06-24 15:30:52,182 [16] DEBUG OrderManagement.Services.LibraryServices.MoveNext[131] - Items added from Library.csv and added to DB successfully
+2024-06-24 15:31:02,236 [16] DEBUG OrderManagement.Services.LibraryServices.MoveNext[81] - CSV header 'writer' does not match any property in the Item class.
+2024-06-24 15:31:54,585 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - CSV header 'writer' does not match any property in the Item class.
+2024-06-24 15:32:08,465 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - CSV contains empty or null fields at row 2
+2024-06-24 15:32:08,561 [3] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - Items added from Library-2.csv and added to DB successfully, but some cells are empty or null
+2024-06-24 16:18:01,206 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 16:18:18,752 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[147] - Items added from Library.csv and added to DB successfully
+2024-06-24 16:18:27,683 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[272] - The contents of the Library DB is retrieved
+2024-06-24 16:19:00,481 [13] DEBUG OrderManagement.Services.LibraryServices.MoveNext[147] - Items added from Library.csv and added to DB successfully
+2024-06-24 16:19:06,018 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[272] - The contents of the Library DB is retrieved
+2024-06-24 16:36:00,460 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 16:36:18,582 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[271] - The contents of the Library DB is retrieved
+2024-06-24 16:39:47,877 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[271] - The contents of the Library DB is retrieved
+2024-06-24 16:46:44,794 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[340] - The details of the book is deleted successfully from DB
+2024-06-24 16:46:48,100 [16] INFO OrderManagement.Services.LibraryServices.MoveNext[340] - The details of the book is deleted successfully from DB
+2024-06-24 16:46:53,177 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[340] - The details of the book is deleted successfully from DB
+2024-06-24 16:46:58,725 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[340] - The details of the book is deleted successfully from DB
+2024-06-24 16:47:04,285 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[340] - The details of the book is deleted successfully from DB
+2024-06-24 16:47:07,797 [16] INFO OrderManagement.Services.LibraryServices.MoveNext[340] - The details of the book is deleted successfully from DB
+2024-06-24 16:47:11,048 [16] INFO OrderManagement.Services.LibraryServices.MoveNext[340] - The details of the book is deleted successfully from DB
+2024-06-24 16:47:14,645 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[340] - The details of the book is deleted successfully from DB
+2024-06-24 16:47:18,597 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[340] - The details of the book is deleted successfully from DB
+2024-06-24 16:47:21,817 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[340] - The details of the book is deleted successfully from DB
+2024-06-24 16:48:08,610 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[335] - The book is not found from DB, delete failed
+2024-06-24 16:48:13,050 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[271] - The contents of the Library DB is retrieved
+2024-06-24 16:48:39,301 [5] DEBUG OrderManagement.Services.LibraryServices.MoveNext[146] - Items added from Library.csv and added to DB successfully
+2024-06-24 16:48:45,023 [13] INFO OrderManagement.Services.LibraryServices.MoveNext[271] - The contents of the Library DB is retrieved
+2024-06-24 16:49:09,267 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 16:49:31,866 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[266] - The contents of the Library DB is retrieved
+2024-06-24 16:49:48,962 [10] DEBUG OrderManagement.Services.LibraryServices.MoveNext[49] - File doesn't exist, Bulk Upload failed
+2024-06-24 16:50:22,360 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 16:50:32,404 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[266] - The contents of the Library DB is retrieved
+2024-06-24 16:50:46,650 [11] DEBUG OrderManagement.Services.LibraryServices.MoveNext[140] - Items added from Library.csv and added to DB successfully
+2024-06-24 16:50:50,358 [10] INFO OrderManagement.Services.LibraryServices.MoveNext[266] - The contents of the Library DB is retrieved
+2024-06-24 16:54:48,245 [19] DEBUG OrderManagement.Services.LibraryServices.MoveNext[0] - Items added from Library.csv and added to DB successfully
+2024-06-24 16:55:18,358 [10] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-24 16:59:28,912 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 16:59:45,930 [9] DEBUG OrderManagement.Services.LibraryServices.MoveNext[140] - Items added from Library.csv and added to DB successfully
+2024-06-24 16:59:56,338 [9] INFO OrderManagement.Services.LibraryServices.MoveNext[266] - The contents of the Library DB is retrieved
+2024-06-24 17:00:13,298 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[335] - The details of the book is deleted successfully from DB
+2024-06-24 17:00:14,870 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[330] - The book is not found from DB, delete failed
+2024-06-24 17:24:01,693 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 17:25:13,780 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[307] - The book is not found from DB, so update failed
+2024-06-24 17:25:27,798 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[266] - The contents of the Library DB is retrieved
+2024-06-24 17:26:17,240 [19] INFO OrderManagement.Services.LibraryServices.MoveNext[315] - The details of the book is updated successfully to DB
+2024-06-24 17:26:36,040 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[266] - The contents of the Library DB is retrieved
+2024-06-24 17:28:30,244 [23] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-24 17:29:08,631 [5] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The details of the book is updated successfully to DB
+2024-06-24 17:29:13,147 [3] INFO OrderManagement.Services.LibraryServices.MoveNext[0] - The contents of the Library DB is retrieved
+2024-06-24 18:01:34,307 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-24 18:02:04,694 [7] DEBUG OrderManagement.Services.LibraryServices.MoveNext[140] - Items added from Library.csv and added to DB successfully
+2024-06-24 18:02:25,228 [7] INFO OrderManagement.Services.LibraryServices.MoveNext[266] - The contents of the Library DB is retrieved
+2024-06-27 13:34:05,632 [1] INFO Program.<Main>$[14] - Application started.
+2024-06-27 17:23:25,320 [1] INFO Program.<Main>$[14] - Application started.

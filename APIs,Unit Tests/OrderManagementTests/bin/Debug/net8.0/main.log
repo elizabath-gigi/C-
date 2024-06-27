@@ -1,0 +1,297 @@
+2024-06-26 14:46:41,637 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[163] - The contents of the Library DB is retrieved
+2024-06-26 14:47:18,566 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[163] - The contents of the Library DB is retrieved
+2024-06-26 14:55:49,953 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[163] - The contents of the Library DB is retrieved
+2024-06-26 14:56:12,915 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[163] - The contents of the Library DB is retrieved
+2024-06-26 15:31:31,559 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[160] - The library DB is null
+2024-06-26 15:31:31,856 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[163] - The contents of the Library DB is retrieved
+2024-06-26 15:46:36,522 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[176] - The details of the book is retrieved
+2024-06-26 16:07:28,614 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[173] - The book doesn't exist in the DB, so retrieval failed
+2024-06-26 16:08:49,317 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[173] - The book doesn't exist in the DB, so retrieval failed
+2024-06-26 16:09:19,209 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[173] - The book doesn't exist in the DB, so retrieval failed
+2024-06-26 16:38:44,445 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[189] - The details of the book is added successfully to DB
+2024-06-26 16:40:19,711 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[204] - The book is not found from DB, so update failed
+2024-06-26 16:42:16,838 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[212] - The details of the book is updated successfully to DB
+2024-06-26 16:45:01,758 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[204] - The book is not found from DB, so update failed
+2024-06-26 16:49:38,935 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[232] - The details of the book is deleted successfully from DB
+2024-06-26 16:50:11,010 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[227] - The book is not found from DB, delete failed
+2024-06-26 16:57:52,827 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[150] - The contents of the Library DB from page 2 is retrieved
+2024-06-26 16:58:33,595 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[150] - The contents of the Library DB from page 2 is retrieved
+2024-06-26 17:01:19,206 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[134] - The library DB is null
+2024-06-26 17:01:19,225 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[141] - The page number exceeds the limit, retrieval failed
+2024-06-26 17:04:15,601 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-26 17:05:30,441 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-26 17:34:18,967 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[122] - Books added from updateBooks.csv and added to DB successfully.
+2024-06-26 17:34:43,302 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[74] - CSV header does not match the expected format, Bulk Upload failed
+2024-06-26 17:34:43,379 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[90] - CSV contains empty or null fields, at row 1
+2024-06-26 17:34:43,380 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[90] - CSV contains empty or null fields, at row 2
+2024-06-26 17:34:43,380 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[90] - CSV contains empty or null fields, at row 3
+2024-06-26 17:34:43,405 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[122] - Books added from nullFields.csv and added to DB successfully.
+2024-06-26 17:34:43,925 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[122] - Books added from validBooks.csv and added to DB successfully.
+2024-06-26 17:34:43,942 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[54] - File doesn't exist, Bulk Upload failed
+2024-06-27 10:11:32,773 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 10:11:33,198 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 10:11:33,199 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 10:11:33,285 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 10:11:33,312 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 10:11:33,337 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 10:11:33,364 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 10:11:33,387 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 10:11:33,445 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 10:11:33,483 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 10:11:33,507 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 10:11:33,536 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 11:41:31,989 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 11:41:32,049 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 11:41:32,058 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 11:41:32,106 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 11:41:32,132 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 11:41:32,158 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 11:41:32,182 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 11:41:32,205 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 11:41:32,240 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 11:41:32,266 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 11:41:32,299 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 11:41:32,324 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 11:41:50,618 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 11:41:50,685 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 11:41:50,697 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 11:41:50,758 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 11:41:50,788 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 11:41:50,818 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 11:41:50,849 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 11:41:50,874 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 11:41:50,931 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 11:41:50,962 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 11:41:50,988 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 11:41:51,024 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 12:20:47,402 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:21:04,643 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:23:23,608 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:25:18,708 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:26:45,724 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:26:45,723 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 12:26:45,791 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 12:26:45,791 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:26:45,846 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 12:26:45,873 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 12:26:45,901 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 12:26:45,927 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:26:45,961 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 12:26:45,997 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 12:26:46,022 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 12:26:46,050 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 12:26:46,078 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 12:26:59,757 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 12:26:59,757 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:26:59,804 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 12:26:59,804 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:26:59,852 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 12:26:59,877 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 12:26:59,908 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 12:26:59,934 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:26:59,973 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 12:27:00,010 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 12:27:00,043 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 12:27:00,073 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 12:27:00,102 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 12:28:02,726 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:28:02,726 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 12:28:02,773 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 12:28:02,773 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:28:02,831 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 12:28:02,859 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 12:28:02,890 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 12:28:02,924 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:28:02,951 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 12:28:02,990 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 12:28:03,016 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 12:28:03,044 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 12:28:03,073 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 12:34:04,471 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[34] - The user DB is null
+2024-06-27 12:34:04,488 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:34:23,896 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:34:23,896 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 12:34:23,944 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 12:34:23,944 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:34:23,944 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[34] - The user DB is null
+2024-06-27 12:34:23,945 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:34:24,013 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 12:34:24,045 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 12:34:24,073 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 12:34:24,106 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:34:24,130 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 12:34:24,167 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 12:34:24,202 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 12:34:24,247 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 12:34:24,277 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 12:36:50,306 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:36:50,306 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 12:36:50,353 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[34] - The user DB is null
+2024-06-27 12:36:50,353 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 12:36:50,353 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:36:50,354 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:36:50,414 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 12:36:50,442 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 12:36:50,466 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 12:36:50,493 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:36:50,512 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 12:36:50,540 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 12:36:50,567 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 12:36:50,589 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 12:36:50,612 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 12:38:06,012 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:38:06,012 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 12:38:06,043 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[34] - The user DB is null
+2024-06-27 12:38:06,044 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 12:38:06,044 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 12:38:06,045 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:38:06,090 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 12:38:06,116 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 12:38:06,140 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 12:38:06,168 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 12:38:06,189 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 12:38:06,216 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 12:38:06,243 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 12:38:06,264 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 12:38:06,286 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 13:53:40,174 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 13:53:40,174 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 13:53:40,219 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[34] - The user DB is null
+2024-06-27 13:53:40,220 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 13:53:40,220 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 13:53:40,221 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 13:53:40,277 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 13:53:40,301 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 13:53:40,333 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 13:53:40,354 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 13:53:40,373 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 13:53:40,406 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 13:53:40,429 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 13:53:40,451 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 13:53:40,510 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 15:37:32,187 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[87] - Unable to authenticate user User1
+2024-06-27 15:58:14,982 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[87] - Unable to authenticate user User1
+2024-06-27 16:01:18,151 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username User1 login successfully.
+2024-06-27 16:03:56,422 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[87] - Unable to authenticate user User1
+2024-06-27 16:07:59,318 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[114] - User with username User1 reset password successfully.
+2024-06-27 16:08:22,827 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[109] - Unable to authenticate user User1
+2024-06-27 16:12:47,963 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[114] - User with username User1 reset password successfully.
+2024-06-27 16:59:40,633 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 16:59:40,633 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[109] - Unable to authenticate user User1
+2024-06-27 16:59:40,686 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 16:59:40,687 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 16:59:40,696 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 16:59:40,737 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 16:59:40,760 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[34] - The user DB is null
+2024-06-27 16:59:40,769 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[36] - The contents of the User DB is retrieved
+2024-06-27 16:59:40,778 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 16:59:40,805 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 16:59:40,856 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[92] - User with username User1 login successfully.
+2024-06-27 16:59:40,867 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 16:59:40,915 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[87] - Unable to authenticate user User1
+2024-06-27 16:59:40,922 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 16:59:40,941 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[114] - User with username User1 reset password successfully.
+2024-06-27 16:59:40,964 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 16:59:40,999 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 16:59:41,029 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 16:59:41,062 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 17:46:17,198 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[74] - User with email email@gmail.com or username User registered successfully.
+2024-06-27 17:46:48,343 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[60] - User with email email@gmail.com or username User1 already exists.
+2024-06-27 17:47:38,624 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[60] - User with email email@gmail.com or username User1 already exists.
+2024-06-27 18:00:36,718 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 18:00:36,718 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[54] - File doesn't exist, Bulk Upload failed
+2024-06-27 18:00:36,718 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[111] - Unable to authenticate user User1
+2024-06-27 18:00:36,773 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 18:00:36,773 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 18:00:36,782 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[37] - The contents of the User DB is retrieved
+2024-06-27 18:00:36,808 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 18:00:36,817 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[35] - The user DB is null
+2024-06-27 18:00:36,818 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[37] - The contents of the User DB is retrieved
+2024-06-27 18:00:36,839 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 18:00:36,900 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 18:00:36,907 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[74] - User with email email@gmail.com or username User registered successfully.
+2024-06-27 18:00:36,927 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 18:00:36,934 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[94] - User with username User1 login successfully.
+2024-06-27 18:00:36,952 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 18:00:36,960 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[89] - Unable to authenticate user User1
+2024-06-27 18:00:36,996 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 18:00:37,000 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[60] - User with email email@gmail.com or username User1 already exists.
+2024-06-27 18:00:37,024 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 18:00:37,026 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[116] - User with username User1 reset password successfully.
+2024-06-27 18:00:37,050 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 18:00:37,084 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 18:06:33,486 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[77] - CSV header 'InvalidHeader1' does not match any property in the Item class.
+2024-06-27 18:10:58,668 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[77] - CSV header 'InvalidHeader1' does not match any property in the Item class.
+2024-06-27 18:25:07,131 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[49] - File doesn't exist, Bulk Upload failed
+2024-06-27 18:25:07,140 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 18:25:07,150 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[111] - Unable to authenticate user User1
+2024-06-27 18:25:07,172 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[77] - CSV header 'Book' does not match any property in the Item class.
+2024-06-27 18:25:07,173 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 18:25:07,173 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 18:25:07,186 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[37] - The contents of the User DB is retrieved
+2024-06-27 18:25:07,218 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 18:25:07,225 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[35] - The user DB is null
+2024-06-27 18:25:07,226 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[37] - The contents of the User DB is retrieved
+2024-06-27 18:25:07,234 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from updateBooks.csv and added to DB successfully
+2024-06-27 18:25:07,244 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 18:25:07,284 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 18:25:07,288 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[74] - User with email email@gmail.com or username User registered successfully.
+2024-06-27 18:25:07,302 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from validBooks.csv and added to DB successfully
+2024-06-27 18:25:07,327 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 18:25:07,332 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[94] - User with username User1 login successfully.
+2024-06-27 18:25:07,342 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[97] - CSV contains empty or null fields at row 2
+2024-06-27 18:25:07,348 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 18:25:07,356 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[89] - Unable to authenticate user User1
+2024-06-27 18:25:07,357 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from nullFields.csv and added to DB successfully, but some cells are empty or null
+2024-06-27 18:25:07,388 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 18:25:07,389 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[60] - User with email email@gmail.com or username User1 already exists.
+2024-06-27 18:25:07,410 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[116] - User with username User1 reset password successfully.
+2024-06-27 18:25:07,413 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 18:25:07,441 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 18:25:07,464 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
+2024-06-27 18:27:18,809 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[97] - CSV contains empty or null fields at row 1
+2024-06-27 18:27:18,965 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from nullFields.csv and added to DB successfully, but some cells are empty or null
+2024-06-27 18:28:17,444 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[97] - CSV contains empty or null fields at row 1
+2024-06-27 18:28:17,618 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from nullFields.csv and added to DB successfully, but some cells are empty or null
+2024-06-27 18:29:08,704 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[97] - CSV contains empty or null fields at row 1
+2024-06-27 18:29:08,848 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from nullFields.csv and added to DB successfully, but some cells are empty or null
+2024-06-27 18:31:40,039 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[97] - CSV contains empty or null fields at row 1
+2024-06-27 18:31:40,202 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from nullFields.csv and added to DB successfully, but some cells are empty or null
+2024-06-27 18:32:37,473 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[97] - CSV contains empty or null fields at row 1
+2024-06-27 18:32:37,631 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from nullFields.csv and added to DB successfully, but some cells are empty or null
+2024-06-27 18:34:16,203 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[97] - CSV contains empty or null fields at row 1
+2024-06-27 18:34:16,359 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from nullFields.csv and added to DB successfully, but some cells are empty or null
+2024-06-27 18:35:03,951 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from validBooks.csv and added to DB successfully
+2024-06-27 18:35:46,450 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from validBooks.csv and added to DB successfully
+2024-06-27 18:36:04,802 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from validBooks.csv and added to DB successfully
+2024-06-27 18:37:38,452 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from validBooks.csv and added to DB successfully
+2024-06-27 18:43:40,317 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[162] - The book is not found from DB, so update failed
+2024-06-27 18:43:49,139 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[173] - The details of the book is updated successfully to DB
+2024-06-27 18:44:15,706 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[136] - The page number exceeds the limit, retrieval failed
+2024-06-27 18:44:15,706 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[111] - Unable to authenticate user User1
+2024-06-27 18:44:15,706 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[97] - CSV contains empty or null fields at row 1
+2024-06-27 18:44:15,742 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[155] - The library DB is null
+2024-06-27 18:44:15,753 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[37] - The contents of the User DB is retrieved
+2024-06-27 18:44:15,753 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 18:44:15,775 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from nullFields.csv and added to DB successfully, but some cells are empty or null
+2024-06-27 18:44:15,792 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[207] - The details of the book is updated successfully to DB
+2024-06-27 18:44:15,804 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[35] - The user DB is null
+2024-06-27 18:44:15,804 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[37] - The contents of the User DB is retrieved
+2024-06-27 18:44:15,815 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[162] - The book is not found from DB, so update failed
+2024-06-27 18:44:15,826 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[49] - File doesn't exist, Bulk Upload failed
+2024-06-27 18:44:15,851 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[171] - The details of the book is retrieved
+2024-06-27 18:44:15,919 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[77] - CSV header 'Book' does not match any property in the Item class.
+2024-06-27 18:44:15,924 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[74] - User with email email@gmail.com or username User registered successfully.
+2024-06-27 18:44:15,932 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[222] - The book is not found from DB, delete failed
+2024-06-27 18:44:15,950 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[94] - User with username User1 login successfully.
+2024-06-27 18:44:15,956 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[158] - The contents of the Library DB is retrieved
+2024-06-27 18:44:15,964 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[144] - Items added from validBooks.csv and added to DB successfully
+2024-06-27 18:44:15,982 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[89] - Unable to authenticate user User1
+2024-06-27 18:44:15,989 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[184] - The details of the book is added successfully to DB
+2024-06-27 18:44:15,999 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[173] - The details of the book is updated successfully to DB
+2024-06-27 18:44:16,010 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[60] - User with email email@gmail.com or username User1 already exists.
+2024-06-27 18:44:16,025 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[227] - The details of the book is deleted successfully from DB
+2024-06-27 18:44:16,039 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[116] - User with username User1 reset password successfully.
+2024-06-27 18:44:16,053 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[168] - The book doesn't exist in the DB, so retrieval failed
+2024-06-27 18:44:16,090 [.NET Long Running Task] INFO OrderManagement.Services.LibraryServices.MoveNext[145] - The contents of the Library DB from page 2 is retrieved
+2024-06-27 18:44:16,120 [.NET Long Running Task] DEBUG OrderManagement.Services.LibraryServices.MoveNext[199] - The book is not found from DB, so update failed
