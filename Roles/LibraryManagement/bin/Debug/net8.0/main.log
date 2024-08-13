@@ -1,0 +1,97 @@
+2024-07-18 18:54:49,057 [1] INFO Program.<Main>$[15] - Application started.
+2024-07-19 09:49:26,081 [1] INFO Program.<Main>$[15] - Application started.
+2024-07-19 09:53:01,380 [7] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-07-19 11:47:30,309 [1] INFO Program.<Main>$[15] - Application started.
+2024-07-19 13:09:07,043 [1] INFO Program.<Main>$[15] - Application started.
+2024-07-19 13:14:37,444 [1] INFO Program.<Main>$[15] - Application started.
+2024-07-19 14:25:31,871 [3] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-01 17:23:14,779 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-01 17:26:41,769 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-01 17:50:55,148 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-01 18:17:51,596 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-01 18:25:01,299 [3] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-01 18:25:05,635 [16] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-01 18:25:14,638 [16] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-01 18:33:52,528 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-01 18:35:52,323 [14] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-01 18:36:10,069 [7] DEBUG LibraryManagement.Services.LibraryServices.MoveNext[102] - The book doesn't exist in the DB, so retrieval failed
+2024-08-01 18:36:25,034 [14] INFO LibraryManagement.Services.LibraryServices.MoveNext[106] - The details of the book is retrieved
+2024-08-02 09:44:17,354 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-05 10:35:57,500 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-05 10:39:12,582 [7] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-05 10:40:54,814 [28] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is added successfully to DB
+2024-08-05 10:41:22,301 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-05 15:53:29,659 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-05 16:14:43,054 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-05 16:55:27,781 [14] INFO OrderManagement.Middleware.JwtMiddleware.MoveNext[61] - Some issue with middleware
+2024-08-05 16:55:29,319 [16] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-05 16:58:55,513 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-05 17:04:21,716 [3] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-05 17:04:28,808 [3] INFO LibraryManagement.Services.LibraryServices.MoveNext[106] - The details of the book is retrieved
+2024-08-06 15:40:45,223 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-06 15:43:26,650 [10] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-06 15:45:11,266 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-06 15:56:34,109 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-06 15:57:50,146 [17] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-06 15:57:50,437 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-06 16:08:54,794 [9] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-06 16:08:57,625 [25] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-06 16:39:42,578 [33] INFO LibraryManagement.Services.LibraryServices.MoveNext[106] - The details of the book is retrieved
+2024-08-06 19:26:08,463 [66] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-07 10:36:59,257 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 10:38:27,956 [10] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-07 10:38:45,543 [10] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-07 10:38:45,692 [10] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-07 10:50:30,480 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-07 10:50:31,158 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-07 10:50:31,790 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-07 10:50:32,682 [18] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-07 10:50:32,750 [17] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-07 15:17:19,164 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 15:50:25,205 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 16:04:51,631 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 16:07:03,551 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 16:09:23,018 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 17:07:20,777 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 18:09:25,503 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 18:28:40,967 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 18:50:26,122 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 18:53:41,826 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-07 19:11:37,351 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-08 10:33:02,132 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-08 10:37:42,346 [9] INFO OrderManagement.Middleware.JwtMiddleware.MoveNext[61] - Some issue with middleware
+2024-08-08 10:37:44,251 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-08 10:38:13,656 [5] DEBUG LibraryManagement.Services.LibraryServices.CallStoredProcedureAsync[293] - Some errors with stored procedure
+2024-08-08 10:38:40,584 [25] INFO OrderManagement.Middleware.JwtMiddleware.MoveNext[61] - Some issue with middleware
+2024-08-08 10:38:40,811 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-08 10:44:18,985 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-08 10:45:22,355 [9] INFO OrderManagement.Middleware.JwtMiddleware.MoveNext[61] - Some issue with middleware
+2024-08-08 10:45:23,823 [19] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-08 10:48:02,321 [19] DEBUG LibraryManagement.Services.LibraryServices.CallStoredProcedureAsync[293] - Some errors with stored procedure
+2024-08-08 10:48:37,613 [16] INFO OrderManagement.Middleware.JwtMiddleware.MoveNext[61] - Some issue with middleware
+2024-08-08 10:48:37,708 [17] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-08 10:49:41,420 [17] DEBUG LibraryManagement.Services.LibraryServices.CallStoredProcedureAsync[293] - Some errors with stored procedure
+2024-08-08 10:53:36,864 [3] INFO OrderManagement.Middleware.JwtMiddleware.MoveNext[61] - Some issue with middleware
+2024-08-08 10:53:36,997 [3] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-08 10:55:42,846 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-08 10:57:27,983 [7] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-08 11:13:50,536 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-08 11:16:14,278 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-08 11:18:38,190 [7] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-08 11:19:45,231 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-08 11:20:05,376 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-08 11:21:55,995 [9] INFO LibraryManagement.Services.LibraryServices.MoveNext[146] - The details of the book is updated successfully to DB
+2024-08-08 11:22:15,712 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-08 11:52:51,236 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-08 19:01:22,350 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-09 09:33:08,115 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-09 09:52:55,183 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-09 10:00:44,781 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-09 10:00:45,226 [3] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-09 11:42:22,843 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-09 12:55:13,374 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-09 14:24:36,069 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-09 15:41:26,645 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-13 12:16:32,628 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-13 12:20:13,159 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-13 17:18:16,513 [1] INFO Program.<Main>$[15] - Application started.
