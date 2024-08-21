@@ -108,6 +108,20 @@ namespace LibraryManagement.Services
             return book;
 
         }
+        public async Task<Book> GetByBookName(string BookName)
+        {
+            var book = _libraryContext.Books.FirstOrDefault(x => x.BookName == BookName);
+            if (book == null)
+            {
+                log.Debug("The book doesn't exist in the DB, so retrieval failed");
+                CallStoredProcedureAsync("INFO", "The book doesn't exist in the DB, so retrieval failed");
+                throw new IdNotFoundException("The book doesn't exist");
+            }
+            log.Info("The details of the book is retrieved");
+            CallStoredProcedureAsync("INFO", "The details of the book is retrieved");
+            return book;
+
+        }
         /// <summary>
         /// Add the details of a book to the DB.
         /// </summary>
@@ -145,6 +159,23 @@ namespace LibraryManagement.Services
             _libraryContext.SaveChanges();
             log.Info("The details of the book is updated successfully to DB");
             return request;
+        }
+
+
+        public async Task<Book> UpdateNoOfBook(string BookName,int NoOfBook)
+        {
+            var existing = _libraryContext.Books.FirstOrDefault(x => x.BookName == BookName);
+            if (existing == null)
+            {
+                log.Debug("The book is not found from DB, so update failed");
+                throw new IdNotFoundException("The book doesn't exist.");
+
+            }
+            
+            existing.NoOfBook = NoOfBook;            
+            _libraryContext.SaveChanges();
+            log.Info("The details of the book is updated successfully to DB");
+            return existing;
         }
         /// <summary>
         /// Delete the details of the book from the DB.

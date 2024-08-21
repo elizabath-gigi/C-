@@ -79,6 +79,23 @@ namespace LibraryManagement.Controllers
 
             }
         }
+        [Authorize(Roles = "Admin,User")]
+        [HttpGet]
+        [Route("getByBookName")]
+        public async Task<ActionResult<Book>> GetByBookName(string BookName)
+        {
+            try
+            {
+                var book = await iservice.GetByBookName(BookName);
+                return Ok(book);
+            }
+            catch (IdNotFoundException ex)
+            {
+                return NotFound(ex.Message);
+
+
+            }
+        }
         [Authorize(Roles = "Admin")]
         [HttpPost]
         [Route("addBook")]
@@ -97,6 +114,23 @@ namespace LibraryManagement.Controllers
             try
             {
                 var books = await iservice.UpdateBook(request);
+                return Ok(books);
+            }
+            catch (IdNotFoundException ex)
+            {
+                return NotFound(ex.Message);
+            }
+
+
+        }
+        [Authorize(Roles = "Admin")]
+        [HttpPut]
+        [Route("updateNoOfBooks")]
+        public async Task<ActionResult<Book>> UpdateNoOfBook(string BookName,int NoOfBook)
+        {
+            try
+            {
+                var books = await iservice.UpdateNoOfBook(BookName,NoOfBook);
                 return Ok(books);
             }
             catch (IdNotFoundException ex)

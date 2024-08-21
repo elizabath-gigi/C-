@@ -16,7 +16,7 @@ using Microsoft.Extensions.Options;
 using static UserManagement.Interfaces.IUserServices;
 using UserManagement.DTOs;
 using UserManagement.Models;
-
+    
 
 namespace OrderManagement.Services
 {
@@ -75,7 +75,7 @@ namespace OrderManagement.Services
                 UserName = request.UserName,
                 Password = HashPassword(request.Password),
                 Role = "User",
-                NameHindi=request.NameHindi
+                //NameHindi=request.NameHindi
             };
 
             _context.Users.Add(user);
@@ -198,34 +198,70 @@ namespace OrderManagement.Services
         /// <param name="user"></param>
         /// <returns>JwtSecurityToken</returns>
 
-        public User GetById(int UserId)
+        public UserDto GetById(int UserId)
         {
-            return  _context.Users.FirstOrDefault(x => x.UserId == UserId && x.IsDeleted == 0);
+            User user = _context.Users.FirstOrDefault(x => x.UserId == UserId);
+            if (user == null || user.IsDeleted == 1)
+            {
+                log.Debug("The user is not found");
+                throw new IdNotFoundException("The user doesn't exist");
+            }
+            UserDto userDto = new UserDto
+            {
+                UserId = user.UserId,
+                UserName = user.UserName,
+                Email = user.Email,
+                Role=user.Role                
+            };
+            return userDto;
         }
-        public User GetByUsername(string UserName)
+       
+        public UserDto GetByUsername(string UserName)
         {
-            return _context.Users.FirstOrDefault(x => x.UserName == UserName && x.IsDeleted == 0);
-
+            User user = _context.Users.FirstOrDefault(x => x.UserName == UserName);
+            if (user == null || user.IsDeleted == 1)
+            {
+                log.Debug("The user is not found");
+                throw new IdNotFoundException("The user doesn't exist");
+            }
+            UserDto userDto = new UserDto
+            {
+                UserId = user.UserId,
+                UserName = user.UserName,
+                Email = user.Email,
+                Role = user.Role
+            };
+            return userDto;
         }
         public string GetNameHindi(string UserName)
         {
-            User user = _context.Users.FirstOrDefault(x => x.UserName == UserName && x.IsDeleted == 0);
+            User user = _context.Users.FirstOrDefault(x => x.UserName == UserName);
+            if (user == null ||user.IsDeleted==1)
+            {
+                log.Debug("The user is not found");
+                throw new IdNotFoundException("The user doesn't exist");
+            }
             return user.NameHindi;
         }
-        public async Task<User> DeleteUser(string UserName)
+        public async Task<User> DeleteUser(string UserName,string deletedBy)
         {
             
-            var user = await _context.Users.FirstOrDefaultAsync(x => x.UserName == UserName && x.IsDeleted == 0 && x.Role=="User");
+            var user = _context.Users.FirstOrDefault(x => x.UserName == UserName);
 
             
-            if (user == null)
+            if (user == null||user.IsDeleted==1)
             {
                 log.Debug("The user is not found or is already marked as deleted, delete failed");
                 throw new IdNotFoundException("The user doesn't exist or is already deleted.");
             }
-
-            
+            else if(user.Role=="Admin")
+            {
+                log.Debug("The user found is an Admin, delete failed");
+                throw new IdNotFoundException("The user found is an Admin, delete failed.");
+            }
             user.IsDeleted = 1; 
+            user.DeletedBy = deletedBy;
+            user.DeletedOn= DateTime.Now;
             await _context.SaveChangesAsync();
 
             log.Info("The user details have been marked as deleted successfully in DB");

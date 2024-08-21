@@ -1,3 +1,5 @@
+using LibraryManagement.Interfaces;
+using LibraryManagement.Services;
 using log4net;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +9,7 @@ using OrderManagement.Services;
 using System.Text;
 using UserManagement.Interfaces;
 using UserManagement.Models;
+using UserManagement.Services;
 
 
 [assembly: log4net.Config.XmlConfigurator(ConfigFile = "log4net.config", Watch = true)]
@@ -14,8 +17,18 @@ ILog log = LogManager.GetLogger(typeof(Program));
 log.Info("Application started.");
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddControllers();
 builder.Services.AddHttpClient();
+builder.Services.AddHttpClient<ICommunicationServices, CommunicationServices>(client =>
+{
+    client.BaseAddress = new Uri("https://localhost:7173/api/Order/"); // Replace with your actual Inventory API base URL
+    client.DefaultRequestHeaders.Add("Accept", "application/json");
+})
+.AddHttpMessageHandler<JwtTokenHandler>();
+builder.Services.AddTransient<JwtTokenHandler>();
+
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin",
@@ -29,6 +42,7 @@ builder.Services.AddCors(options =>
 // Add services to the container.
 builder.Services.AddDbContext<LibraryManagementContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("dbconn")));
 builder.Services.AddScoped<IUserServices, UserServices>();
+builder.Services.AddScoped<ICartServices, CartServices>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(swagger =>

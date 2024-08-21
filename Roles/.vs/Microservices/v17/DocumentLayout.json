@@ -3,84 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\P10\\source\\repos\\Roles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\controllers\\usercontroller - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\controllers\\usercontroller - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\services\\cartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\services\\cartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\services\\libraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\libraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\interfaces\\ilibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\interfaces\\ilibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\migrations\\20240807102425_addnamehinditouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\migrations\\20240807102425_addnamehinditouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\migrations\\librarymanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\migrations\\librarymanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\interfaces\\icartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\interfaces\\icartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\services\\communicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\services\\communicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\exceptions\\csvexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\exceptions\\csvexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\services\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\services\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\interfaces\\icommunicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\interfaces\\icommunicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\interfaces\\ilibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\interfaces\\ilibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\migrations\\20240807102425_addnamehinditouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\migrations\\20240807102425_addnamehinditouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\exceptions\\argumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\exceptions\\argumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\dtos\\resetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\dtos\\resetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\librarymanagement\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -119,14 +123,6 @@
       "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\librarymanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\exceptions\\csvexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\exceptions\\csvexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\roles\\usermanagement\\exceptions\\argumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\exceptions\\argumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -155,7 +151,7 @@
       "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
-          "DockedWidth": 212,
+          "DockedWidth": 243,
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -172,172 +168,245 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController - Copy.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Controllers\\UserController - Copy.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Controllers\\UserController - Copy.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Controllers\\UserController - Copy.cs",
-              "RelativeToolTip": "UserManagement\\Controllers\\UserController - Copy.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAywDoAAAAfAAAA",
+              "DocumentIndex": 2,
+              "Title": "LibraryManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Models\\LibraryManagementContext.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\LibraryManagementContext.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Models\\LibraryManagementContext.cs",
+              "RelativeToolTip": "UserManagement\\Models\\LibraryManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:10:31.675Z",
+              "WhenOpened": "2024-08-21T10:26:18.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Services\\CartServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Services\\CartServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Services\\CartServices.cs",
+              "RelativeToolTip": "UserManagement\\Services\\CartServices.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwIgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:04:17.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICartServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Interfaces\\ICartServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Interfaces\\ICartServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Interfaces\\ICartServices.cs",
+              "RelativeToolTip": "UserManagement\\Interfaces\\ICartServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:38:27.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "UserManagement\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvzwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:02:02.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Middleware.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Middleware\\Middleware.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Middleware\\Middleware.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Middleware\\Middleware.cs",
-              "RelativeToolTip": "LibraryManagement\\Middleware\\Middleware.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAswC4AAABPAAAA",
+              "Title": "CommunicationServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Services\\CommunicationServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Services\\CommunicationServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Services\\CommunicationServices.cs",
+              "RelativeToolTip": "UserManagement\\Services\\CommunicationServices.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwvy4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T08:40:59.631Z"
+              "WhenOpened": "2024-08-21T05:19:24.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ILibraryServices.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Interfaces\\ILibraryServices.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Interfaces\\ILibraryServices.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Interfaces\\ILibraryServices.cs",
-              "RelativeToolTip": "LibraryManagement\\Interfaces\\ILibraryServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:14:43.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Controllers\\UserController.cs",
-              "RelativeToolTip": "UserManagement\\Controllers\\UserController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAswA0AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:55:19.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserServices.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Services\\UserServices.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Services\\UserServices.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Services\\UserServices.cs",
-              "RelativeToolTip": "UserManagement\\Services\\UserServices.cs",
-              "ViewState": "AQIAAMMAAAAAAAAAAAAmwMwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T05:11:56.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "LibraryController.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Controllers\\LibraryController.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\LibraryController.cs",
               "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Controllers\\LibraryController.cs",
               "RelativeToolTip": "LibraryManagement\\Controllers\\LibraryController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAywD4AAAAIAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwGEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:13:57.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUserServices.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Interfaces\\IUserServices.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Interfaces\\IUserServices.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Interfaces\\IUserServices.cs",
-              "RelativeToolTip": "UserManagement\\Interfaces\\IUserServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T10:22:36.37Z"
+              "WhenOpened": "2024-08-21T05:28:24.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RegisterRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\DTOs\\RegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "UserManagement\\DTOs\\RegisterRequestDto.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\DTOs\\RegisterRequestDto.cs",
-              "RelativeToolTip": "UserManagement\\DTOs\\RegisterRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Title": "IdNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Exceptions\\IdNotFoundException.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Exceptions\\IdNotFoundException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Exceptions\\IdNotFoundException.cs",
+              "RelativeToolTip": "UserManagement\\Exceptions\\IdNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T10:44:15.996Z"
+              "WhenOpened": "2024-07-18T05:35:43.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "CSVException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Exceptions\\CSVException.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Exceptions\\CSVException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Exceptions\\CSVException.cs",
+              "RelativeToolTip": "UserManagement\\Exceptions\\CSVException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:35:33.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Services\\JwtTokenHandler.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Services\\JwtTokenHandler.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Services\\JwtTokenHandler.cs",
+              "RelativeToolTip": "UserManagement\\Services\\JwtTokenHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:52:03.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Middleware\\Middleware.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Middleware\\Middleware.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Middleware\\Middleware.cs",
+              "RelativeToolTip": "LibraryManagement\\Middleware\\Middleware.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAADwv0EAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:40:59.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagement\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:01:57.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Program.cs",
               "RelativeDocumentMoniker": "UserManagement\\Program.cs",
               "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Program.cs",
               "RelativeToolTip": "UserManagement\\Program.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T05:09:41.057Z"
+              "WhenOpened": "2024-08-08T05:09:41.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Models\\Book.cs",
-              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "DocumentIndex": 10,
+              "Title": "ICommunicationServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Interfaces\\ICommunicationServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Interfaces\\ICommunicationServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Interfaces\\ICommunicationServices.cs",
+              "RelativeToolTip": "UserManagement\\Interfaces\\ICommunicationServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:09:14.74Z"
+              "WhenOpened": "2024-08-21T06:55:36.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LibraryServices.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Services\\LibraryServices.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Services\\LibraryServices.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Services\\LibraryServices.cs",
-              "RelativeToolTip": "LibraryManagement\\Services\\LibraryServices.cs",
-              "ViewState": "AQIAABcBAAAAAAAAAAAxwCQBAAAQAAAA",
+              "DocumentIndex": 16,
+              "Title": "ILibraryServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Interfaces\\ILibraryServices.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Interfaces\\ILibraryServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Interfaces\\ILibraryServices.cs",
+              "RelativeToolTip": "LibraryManagement\\Interfaces\\ILibraryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:15:27.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Models\\User.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Models\\User.cs",
-              "RelativeToolTip": "UserManagement\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T10:41:07.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LibraryManagementContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Migrations\\LibraryManagementContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Migrations\\LibraryManagementContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Migrations\\LibraryManagementContextModelSnapshot.cs",
-              "RelativeToolTip": "UserManagement\\Migrations\\LibraryManagementContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T12:51:09.871Z"
+              "WhenOpened": "2024-08-21T05:31:48.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Services\\UserServices.cs",
+              "RelativeToolTip": "UserManagement\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAUwCEBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:02:37.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Models\\CartItem.cs",
+              "RelativeToolTip": "UserManagement\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:38:19.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Models\\Cart.cs",
+              "RelativeToolTip": "UserManagement\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:38:30.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "UserManagement\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "UserManagement\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:06:35.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Program.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
@@ -349,31 +418,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "20240807102425_AddNameHindiToUser.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Migrations\\20240807102425_AddNameHindiToUser.cs",
               "RelativeDocumentMoniker": "UserManagement\\Migrations\\20240807102425_AddNameHindiToUser.cs",
               "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Migrations\\20240807102425_AddNameHindiToUser.cs",
               "RelativeToolTip": "UserManagement\\Migrations\\20240807102425_AddNameHindiToUser.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAswAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T12:36:59.041Z"
+              "WhenOpened": "2024-08-07T12:36:59.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LibraryManagementContext.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Models\\LibraryManagementContext.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Models\\LibraryManagementContext.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Models\\LibraryManagementContext.cs",
-              "RelativeToolTip": "UserManagement\\Models\\LibraryManagementContext.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAABAwCcAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T10:35:52.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ArgumentsException.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Exceptions\\ArgumentsException.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Exceptions\\ArgumentsException.cs",
@@ -381,47 +439,12 @@
               "RelativeToolTip": "LibraryManagement\\Exceptions\\ArgumentsException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:20:37.467Z"
+              "WhenOpened": "2024-07-17T09:20:37.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ResetRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\DTOs\\ResetRequestDto.cs",
-              "RelativeDocumentMoniker": "UserManagement\\DTOs\\ResetRequestDto.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\DTOs\\ResetRequestDto.cs",
-              "RelativeToolTip": "UserManagement\\DTOs\\ResetRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T10:45:27.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LoginRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\DTOs\\LoginRequestDto.cs",
-              "RelativeDocumentMoniker": "UserManagement\\DTOs\\LoginRequestDto.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\DTOs\\LoginRequestDto.cs",
-              "RelativeToolTip": "UserManagement\\DTOs\\LoginRequestDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T10:42:10.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LibraryManagementContext.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Models\\LibraryManagementContext.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Models\\LibraryManagementContext.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Models\\LibraryManagementContext.cs",
-              "RelativeToolTip": "LibraryManagement\\Models\\LibraryManagementContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:08:56.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "log4net.config",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\log4net.config",
               "RelativeDocumentMoniker": "UserManagement\\log4net.config",
@@ -433,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "log4net.config",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\log4net.config",
               "RelativeDocumentMoniker": "LibraryManagement\\log4net.config",
@@ -445,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\appsettings.Development.json",
               "RelativeDocumentMoniker": "UserManagement\\appsettings.Development.json",
@@ -457,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\appsettings.json",
               "RelativeDocumentMoniker": "UserManagement\\appsettings.json",
@@ -469,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "LibraryManagement\\Properties\\launchSettings.json",
@@ -481,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\DTOs\\User.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\DTOs\\User.cs",
@@ -493,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "LibraryManagement",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\LibraryManagement.csproj",
               "RelativeDocumentMoniker": "LibraryManagement\\LibraryManagement.csproj",
@@ -504,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "UserManagement",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\UserManagement.csproj",
               "RelativeDocumentMoniker": "UserManagement\\UserManagement.csproj",
@@ -515,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "UserManagement\\Properties\\launchSettings.json",
@@ -528,18 +551,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "CSVException.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Exceptions\\CSVException.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Exceptions\\CSVException.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Exceptions\\CSVException.cs",
-              "RelativeToolTip": "UserManagement\\Exceptions\\CSVException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T05:35:33.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
               "Title": "ArgumentsException.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Exceptions\\ArgumentsException.cs",
               "RelativeDocumentMoniker": "UserManagement\\Exceptions\\ArgumentsException.cs",
@@ -551,19 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IdNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Exceptions\\IdNotFoundException.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Exceptions\\IdNotFoundException.cs",
-              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Exceptions\\IdNotFoundException.cs",
-              "RelativeToolTip": "UserManagement\\Exceptions\\IdNotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T05:35:43.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "CSVException.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Exceptions\\CSVException.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Exceptions\\CSVException.cs",
@@ -575,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "IdNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\Exceptions\\IdNotFoundException.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Exceptions\\IdNotFoundException.cs",
@@ -587,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "LibraryManagement.csproj",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\LibraryManagement\\LibraryManagement.csproj",
               "RelativeDocumentMoniker": "LibraryManagement\\LibraryManagement.csproj",
@@ -599,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "20240717090125_Books.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Microservices\\LibraryManagement\\Migrations\\20240717090125_Books.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\LibraryManagement\\Migrations\\20240717090125_Books.cs",
@@ -610,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "20240717085151_First.cs",
               "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Microservices\\LibraryManagement\\Migrations\\20240717085151_First.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\LibraryManagement\\Migrations\\20240717085151_First.cs",

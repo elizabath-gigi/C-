@@ -95,3 +95,75 @@
 2024-08-13 12:16:32,628 [1] INFO Program.<Main>$[15] - Application started.
 2024-08-13 12:20:13,159 [1] INFO Program.<Main>$[15] - Application started.
 2024-08-13 17:18:16,513 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-14 09:53:33,657 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-14 09:58:14,813 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-14 09:58:15,896 [18] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-14 09:58:21,117 [9] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-14 09:58:21,776 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-14 16:17:01,077 [9] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-14 16:17:02,384 [16] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-14 16:17:02,448 [16] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-14 16:17:02,649 [16] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-14 16:17:02,998 [27] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-14 16:17:03,277 [27] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-14 17:30:56,255 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-14 17:52:05,079 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-16 10:19:37,228 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-16 10:20:47,401 [13] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 10:29:56,001 [21] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 10:29:59,701 [9] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 10:30:03,423 [3] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 10:30:03,486 [22] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-16 10:58:08,016 [22] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 10:58:13,719 [20] INFO LibraryManagement.Services.LibraryServices.MoveNext[106] - The details of the book is retrieved
+2024-08-16 10:58:16,728 [7] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 10:58:16,745 [7] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-16 11:18:13,112 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-16 12:52:23,726 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 12:52:25,953 [15] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 12:52:26,059 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-16 12:52:33,603 [10] INFO LibraryManagement.Services.LibraryServices.MoveNext[106] - The details of the book is retrieved
+2024-08-16 12:52:43,549 [16] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 12:52:49,058 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[106] - The details of the book is retrieved
+2024-08-16 12:52:54,417 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 12:52:54,440 [15] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-16 12:52:59,853 [16] DEBUG LibraryManagement.Services.LibraryServices.MoveNext[102] - The book doesn't exist in the DB, so retrieval failed
+2024-08-16 12:54:17,486 [15] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 12:54:25,830 [15] INFO LibraryManagement.Services.LibraryServices.MoveNext[106] - The details of the book is retrieved
+2024-08-16 12:54:32,145 [10] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 12:54:32,162 [7] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-16 12:55:20,756 [16] INFO LibraryManagement.Services.LibraryServices.MoveNext[106] - The details of the book is retrieved
+2024-08-16 13:52:18,986 [9] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 13:52:25,947 [10] INFO LibraryManagement.Services.LibraryServices.MoveNext[106] - The details of the book is retrieved
+2024-08-16 13:52:27,890 [10] INFO LibraryManagement.Services.LibraryServices.MoveNext[91] - Details of Books retrieved successfully
+2024-08-16 13:52:27,925 [19] INFO LibraryManagement.Services.LibraryServices.MoveNext[77] - The contents of the Library DB from page 1 is retrieved
+2024-08-21 10:54:59,617 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 11:00:17,080 [3] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 11:02:41,240 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[177] - The details of the book is updated successfully to DB
+2024-08-21 12:19:08,085 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 12:26:56,345 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 12:30:10,410 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 12:33:56,874 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 12:45:56,571 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 13:27:53,813 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 13:33:08,022 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 14:34:35,858 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 14:41:32,109 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 14:44:05,382 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 14:44:32,521 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 14:48:33,463 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 15:24:14,441 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 15:26:47,380 [10] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 15:26:48,090 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 15:31:29,356 [10] DEBUG LibraryManagement.Services.LibraryServices.MoveNext[116] - The book doesn't exist in the DB, so retrieval failed
+2024-08-21 15:36:30,763 [24] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 15:43:27,047 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 15:45:03,341 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 15:45:03,523 [7] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 15:45:33,809 [5] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 17:17:43,327 [1] INFO Program.<Main>$[15] - Application started.
+2024-08-21 17:21:44,137 [20] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 17:21:44,292 [21] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 18:19:48,005 [23] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 18:19:48,047 [19] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
+2024-08-21 18:21:27,993 [23] INFO LibraryManagement.Services.LibraryServices.MoveNext[120] - The details of the book is retrieved
