@@ -29,25 +29,25 @@ namespace UserManagement.Services
             userId = int.Parse(userIdString);
 
         }
-        public async Task<string> RemoveCartItem(string BookName)
+        public async Task<List<CartDto>> RemoveCartItem(string BookName)
         {
             var cart = await _context.Carts
             .Include(c => c.CartItems)
             .FirstOrDefaultAsync(c => c.UserId == userId);
             if (cart == null)
             {
-                throw new ArgumentsException("Item not found in cart");
+                throw new ArgumentsException("Cart is empty");
             }
             var cartItem = cart.CartItems.FirstOrDefault(c => c.BookName == BookName);
             if (cartItem == null)
             {
-                throw new ArgumentsException("Item not found in cart");
+                throw new ArgumentsException("Book not found in cart");
             }
 
             // Update CartValue by subtracting the price of the removed item
             if (cartItem.Price > 0)
             {
-                cart.Total -= cartItem.Price;
+                cart.Total= cart.Total-cartItem.Price;
             }
 
             // Remove the item from the cart
@@ -57,11 +57,11 @@ namespace UserManagement.Services
 
             // Save changes to the database
             await _context.SaveChangesAsync();
-
-            return $"Book '{BookName}' successfully removed from the cart.";
+            var cartItems = await ViewCartItems();
+            return cartItems;
 
         }
-        public async Task<string> BorrowCartItem()
+        public async Task<List<CartDto>> BorrowCartItem()
         {
             var cart = await _context.Carts
                 .Include(c => c.CartItems)
@@ -90,17 +90,17 @@ namespace UserManagement.Services
 
                 borrowedItems.Add(borrow);
             }
+            if (cart.Total > 0)
+            {
+                cart.Total = 0;
+            }
 
-            // Add the borrowed items to the Borrow table
-            _context.Borrows.AddRange(borrowedItems);
+           _context.Borrows.AddRange(borrowedItems);
+           _context.CartItems.RemoveRange(cart.CartItems);
 
-            // Remove the borrowed items from the cart
-            _context.CartItems.RemoveRange(cart.CartItems);
-
-            // Save changes to the database
             await _context.SaveChangesAsync();
-
-            return $"{borrowedItems.Count} books successfully borrowed.";
+            var cartItems = await ViewCartItems();
+            return cartItems;
         }
 
         public async Task<string> AddCartItem(string BookName)
@@ -111,7 +111,7 @@ namespace UserManagement.Services
             var NoOfBook = await _communicationServices.CheckNoOfBook(BookName);
             if (NoOfBook <= 0)
             {
-                throw new IdNotFoundException("No stocks availabe");
+                throw new IdNotFoundException("No books availabe");
             }
 
             if (cart == null)
@@ -126,13 +126,13 @@ namespace UserManagement.Services
             }
             var cartItem = cart.CartItems.FirstOrDefault(c => c.BookName == BookName);
             var borrows = await _context.Borrows
-                  .Where(b => b.UserId == userId & b.IsReturned==0)
+                  .Where(b => b.UserId == userId && b.IsReturned==0)
                   .ToListAsync();
             if (cartItem != null)
             {
                 throw new ArgumentsException("Book already found in cart");
             }
-            else if(borrows !=null)
+            else if (borrows.Any(b => b.BookName == BookName))
             {
                 throw new ArgumentsException("Book already found borrowed and not yet returned");
             }
@@ -180,20 +180,51 @@ namespace UserManagement.Services
 
             return cartItemsDto;
         }
-        public async Task<List<Borrow>> GetAllBorrows()
+        public async Task<decimal> GetCartValue()
         {
-            var borrows = await _context.Borrows.ToListAsync();
-            if(borrows.Count==0)
+            // Find the cart for the current user
+            var cart = await _context.Carts
+                .FirstOrDefaultAsync(c => c.UserId == userId);
+
+            // If the cart doesn't exist, return 0
+            if (cart == null)
+            {
+                throw new ArgumentsException("Cart is empty");
+            }
+
+            // Return the total value of the cart
+            return cart.Total;
+        }
+
+        public async Task<List<BorrowUserDto>> GetAllBorrows()
+        {
+            var borrows = await (from borrow in _context.Borrows
+                                 join user in _context.Users
+                                 on borrow.UserId equals user.UserId
+                                 select new BorrowUserDto
+                                 {
+                                     BorrowId = borrow.BorrowId,
+                                     UserName = user.UserName, 
+                                     BookName = borrow.BookName,
+                                     BorrowDate = borrow.BorrowDate,
+                                     ReturnDate = borrow.ReturnDate,
+                                     IsReturned = borrow.IsReturned
+                                 }).ToListAsync();
+
+            if (borrows.Count == 0)
             {
                 throw new ArgumentsException("Borrow List is empty");
             }
+
             return borrows;
         }
+        
+
         public async Task<List<Borrow>> GetUserBorrows()
         {
             // Find the cart for the current user
             var borrows = await _context.Borrows
-                   .Where(b => b.UserId == userId)
+                   .Where(b => b.UserId == userId && b.IsReturned==0)
                    .ToListAsync();
 
             // If the cart doesn't exist, return an empty list
@@ -203,6 +234,31 @@ namespace UserManagement.Services
             }
 
             
+            return borrows;
+        }
+        public async Task<List<Borrow>> ReturnBook(string bookName)
+        {
+            // Find the borrow record for the given book and user
+            var borrow = await _context.Borrows
+                .FirstOrDefaultAsync(b => b.BookName == bookName && b.UserId == userId && b.IsReturned==0);
+
+            // If no borrow record is found, throw an exception
+            if (borrow == null)
+            {
+                throw new ArgumentsException("Borrow record not found for the specified book.");
+            }
+            if (borrow.IsReturned == 1)
+            {
+                throw new ArgumentsException("This book has already been returned.");
+            }
+            // Update the IsReturned field to 1
+            borrow.IsReturned = 1;
+            var book = await _communicationServices.GetBook(bookName);
+            await _communicationServices.UpdateNoOfBook(book, true);
+
+            // Save the changes to the database
+            await _context.SaveChangesAsync();
+            var borrows = await GetUserBorrows();
             return borrows;
         }
     }

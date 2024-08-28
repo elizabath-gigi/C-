@@ -74,41 +74,72 @@ namespace LibraryManagement.Services
                                .Take(pageSize)
                                .ToList();
 
+
             log.Info("The contents of the Library DB from page " + page + " is retrieved");
             CallStoredProcedureAsync("INFO", "The contents of the Library DB from page " + page + " is retrieved");
+
             return bookPerPage;
 
 
         }
-        public async Task<List<Book>> GetBooks()
+        public async Task<List<BookImageDto>> GetBooks()
         {
-            var book = await _libraryContext.Books.ToListAsync();
-            if (book.Count == 0)
+            var books = await _libraryContext.Books.ToListAsync();
+            if (books.Count == 0)
             {
                 log.Debug("The library DB is null");
                 CallStoredProcedureAsync("DEBUG", "The library DB is null");
             }
+          
             log.Info("Details of Books retrieved successfully");
             CallStoredProcedureAsync("INFO","Details of Books retrieved successfully");
-            return book;
+            var bookImageDtos = books.Select(book => new BookImageDto
+            {
+                BookId = book.BookId,
+                BookName = book.BookName,
+                BookAuthor = book.BookAuthor,
+                NoOfBook = book.NoOfBook,
+                Price = book.Price,
+                BookImage = book.BookImage != null ? Convert.ToBase64String(book.BookImage) : null
+            }).ToList();
+            return bookImageDtos;
 
 
         }
-        public async Task<Book> GetBook(int id)
+        public async Task<BookImageDto> GetBook(int id)
         {
-            var book = _libraryContext.Books.FirstOrDefault(x => x.BookId == id);
+            var book = await _libraryContext.Books.FirstOrDefaultAsync(x => x.BookId == id);
             if (book == null)
             {
                 log.Debug("The book doesn't exist in the DB, so retrieval failed");
                 CallStoredProcedureAsync("INFO", "The book doesn't exist in the DB, so retrieval failed");
                 throw new IdNotFoundException("The book doesn't exist");
             }
-            log.Info("The details of the book is retrieved");
-            CallStoredProcedureAsync("INFO", "The details of the book is retrieved");
-            return book;
 
+            // Convert the image byte[] to a base64 string
+            string base64Image = null;
+            if (book.BookImage != null && book.BookImage.Length > 0)
+            {
+                base64Image = Convert.ToBase64String(book.BookImage);
+            }
+
+            var bookDto = new BookImageDto
+            {
+                BookId = book.BookId,
+                BookName = book.BookName,
+                BookAuthor = book.BookAuthor,
+                NoOfBook = book.NoOfBook,
+                Price = book.Price,
+                BookImage = base64Image // Add base64 image string to DTO
+            };
+
+            log.Info("The details of the book are retrieved");
+            CallStoredProcedureAsync("INFO", "The details of the book are retrieved");
+
+            return bookDto;
         }
-        public async Task<Book> GetByBookName(string BookName)
+
+        public async Task<BookImageDto> GetByBookName(string BookName)
         {
             var book = _libraryContext.Books.FirstOrDefault(x => x.BookName == BookName);
             if (book == null)
@@ -117,9 +148,25 @@ namespace LibraryManagement.Services
                 CallStoredProcedureAsync("INFO", "The book doesn't exist in the DB, so retrieval failed");
                 throw new IdNotFoundException("The book doesn't exist");
             }
+            string base64Image = null;
+            if (book.BookImage != null && book.BookImage.Length > 0)
+            {
+                base64Image = Convert.ToBase64String(book.BookImage);
+            }
+
+            var bookDto = new BookImageDto
+            {
+                BookId = book.BookId,
+                BookName = book.BookName,
+                BookAuthor = book.BookAuthor,
+                NoOfBook = book.NoOfBook,
+                Price = book.Price,
+                BookImage = base64Image 
+            };
+
             log.Info("The details of the book is retrieved");
             CallStoredProcedureAsync("INFO", "The details of the book is retrieved");
-            return book;
+            return bookDto;
 
         }
         /// <summary>
@@ -127,39 +174,102 @@ namespace LibraryManagement.Services
         /// </summary>
         /// <param name="request"></param>
         /// <returns> Task<Library> </returns>
-        public async Task<Book> AddBook(Book request)
+        public async Task<Book> AddBook(BookDto request)
         {
-            _libraryContext.Add(request);
-            _libraryContext.SaveChanges();
-            log.Info("The details of the book is added successfully to DB");
-            CallStoredProcedureAsync("INFO", "The details of the book is added successfully to DB");
-            return request;
+            var existing = _libraryContext.Books.FirstOrDefault(x => x.BookName == request.BookName && x.BookAuthor == request.BookAuthor);
+
+            
+            byte[] imageData = null;
+            if (request.BookImage != null)
+            {
+                using (var memoryStream = new MemoryStream())
+                {
+                    await request.BookImage.CopyToAsync(memoryStream);
+                    imageData = memoryStream.ToArray();
+                }
+            }
+
+            Book newBook = null; 
+
+            if (existing != null)
+            {
+                existing.NoOfBook = request.NoOfBook + existing.NoOfBook;
+                existing.BookImage = imageData;
+            }
+            else
+            {
+                newBook = new Book
+                {
+                    BookName = request.BookName,
+                    BookAuthor = request.BookAuthor,
+                    NoOfBook = request.NoOfBook,
+                    BookImage = imageData,
+                    Price = request.Price
+                                         
+                };
+                _libraryContext.Books.Add(newBook);
+            }
+
+            await _libraryContext.SaveChangesAsync();
+            log.Info("The details of the book are added successfully to the DB");
+            CallStoredProcedureAsync("INFO", "The details of the book are added successfully to the DB");
+
+            return existing ?? newBook;
         }
+
+
         /// <summary>
         /// Update the details of a book in DB.
         /// </summary>
         /// <param name="request"></param>
         /// <returns>Task<Library></returns>
         /// <exception cref="IdNotFoundException"></exception>
-        public async Task<Book> UpdateBook(Book request)
+        public async Task<BookDto> UpdateBook(BookDto request)
         {
             var existing = _libraryContext.Books.FirstOrDefault(x => x.BookId == request.BookId);
             if (existing == null)
             {
-                log.Debug("The book is not found from DB, so update failed");
+                log.Debug("The book is not found in the DB, so the update failed");
                 throw new IdNotFoundException("The book doesn't exist.");
+            }
 
-            }
-            // Update the existing book's NoOfBook
-            foreach (PropertyInfo property in existing.GetType().GetProperties().Where(p => p.Name != "BookId"))
+            // Update the existing book's properties
+            foreach (PropertyInfo property in typeof(Book).GetProperties().Where(p => p.Name != "BookId"))
             {
-                var propertyValue = property.GetValue(request);
-                property.SetValue(existing, propertyValue);
+                var requestProperty = typeof(BookDto).GetProperty(property.Name);
+                if (requestProperty != null)
+                {
+                    if (property.Name == "BookImage")
+                    {
+                        var imageFile = requestProperty.GetValue(request) as IFormFile;
+                        if (imageFile != null)
+                        {
+                            byte[] imageData;
+                            using (var memoryStream = new MemoryStream())
+                            {
+                                await imageFile.CopyToAsync(memoryStream);
+                                imageData = memoryStream.ToArray();
+                            }
+                            property.SetValue(existing, imageData);
+                        }
+                    }
+                    else
+                    {
+                        var propertyValue = requestProperty.GetValue(request);
+                        // Ensure the value being set is of the correct type
+                        if (propertyValue != null && property.PropertyType.IsAssignableFrom(propertyValue.GetType()))
+                        {
+                            property.SetValue(existing, propertyValue);
+                        }
+                    }
+                }
             }
-            _libraryContext.SaveChanges();
-            log.Info("The details of the book is updated successfully to DB");
+
+            await _libraryContext.SaveChangesAsync();
+            log.Info("The details of the book are updated successfully in the DB");
             return request;
         }
+
 
 
         public async Task<Book> UpdateNoOfBook(string BookName,int NoOfBook)
@@ -264,6 +374,23 @@ namespace LibraryManagement.Services
                                 break;
                             }
                             var property = propertyMap[header];
+                            if (header == "BookImage")
+                            {
+                                var imagePath = csv.GetField(header);
+                                if (File.Exists(imagePath))
+                                {
+                                    byte[] imageBytes = File.ReadAllBytes(imagePath);
+                                    var prop = propertyMap["BookImage"];
+                                    object convertedImage;
+
+                                    prop.SetValue(book, imageBytes);
+                                    continue;
+                                }
+                                else
+                                {
+                                    throw new ArgumentsException($"Image file not found: {imagePath}");
+                                }
+                            }
                             object convertedValue;
                             //Type conversions
                             if (property.PropertyType.IsGenericType && property.PropertyType.GetGenericTypeDefinition() == typeof(Nullable<>))
@@ -277,6 +404,7 @@ namespace LibraryManagement.Services
                                 convertedValue = Convert.ChangeType(value, property.PropertyType);
                             }
                             property.SetValue(book, convertedValue);
+
                         }
                         if (flag)
                         {
@@ -287,14 +415,29 @@ namespace LibraryManagement.Services
                         if (existingItem != null)
                         {
                             // Update the existing book's NoOfBook
-                            foreach (PropertyInfo property in existingItem.GetType().GetProperties().Where(p => p.Name != "BookName" && p.Name != "BookAuthor" && p.Name != "BookId"))
+                            foreach (PropertyInfo property in existingItem.GetType().GetProperties()
+                                                  .Where(p => p.Name != "BookName" && p.Name != "BookAuthor" && p.Name != "BookId"))
                             {
+                                //var propertyValue = property.GetValue(book);
+                                //property.SetValue(existingItem, propertyValue);
                                 var propertyValue = property.GetValue(book);
-                                property.SetValue(existingItem, propertyValue);
+
+                                if (property.Name == "NoOfBook")
+                                {
+                                    var existingQuantity = (int)property.GetValue(existingItem);
+                                    var newQuantity = (int)propertyValue;
+                                    property.SetValue(existingItem, existingQuantity + newQuantity);
+                                }
+                                else if (property.Name == "Price")
+                                {
+                                    property.SetValue(existingItem, propertyValue);
+                                }
+
                             }
                         }
                         else
                         {
+
                             books.Add(book);
                         }
                     }
@@ -313,7 +456,8 @@ namespace LibraryManagement.Services
 
 
         }
-        
+
+
         public void CallStoredProcedureAsync(string level, string message)
         {
             try

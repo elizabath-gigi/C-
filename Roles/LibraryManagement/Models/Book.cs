@@ -11,7 +11,9 @@ public partial class Book
 
     public string BookAuthor { get; set; } = null!;
 
-    public int? NoOfBook { get; set; }
+    public int NoOfBook { get; set; }
 
     public decimal Price { get; set; }
+
+    public byte[]? BookImage { get; set; }
 }

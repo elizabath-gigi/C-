@@ -12,7 +12,7 @@ namespace UserManagement.Controllers
             _cartServices = cartServices;
         }
         [HttpGet("ViewCartItems")]
-        public async Task<IActionResult> ViewCartItems()
+        public async Task<ActionResult> ViewCartItems()
         {
 
             var response = await _cartServices.ViewCartItems();
@@ -23,13 +23,32 @@ namespace UserManagement.Controllers
 
             return Ok(response);
         }
+        [HttpGet("GetCartValue")]
+        public async Task<ActionResult> GetCartValue()
+        {
+            try
+            {
+                var cartValue = await _cartServices.GetCartValue();
+                if (cartValue == 0)
+                {
+                    return NotFound("CartValue is 0 as cart is empty");
+                }
+                return Ok(cartValue);
+
+            }
+            catch(ArgumentsException ex) 
+            {
+                return BadRequest(ex.Message);
+            }
+            
+        }
         [HttpPost("AddCartItem")]
         public async Task<ActionResult> AddCartItem(string BookName)
         {
             try
             {
                 var books = await _cartServices.AddCartItem(BookName);
-                return Ok(books);
+                return Ok(new {books }); 
             }
             catch (ArgumentsException ex) 
             {
@@ -66,8 +85,21 @@ namespace UserManagement.Controllers
                 return BadRequest(ex.Message);
             }
         }
+        [HttpDelete("ReturnBook")]
+        public async Task<ActionResult> ReturnBook(string BookName)
+        {
+            try
+            {
+                var books = await _cartServices.ReturnBook(BookName);
+                return Ok(books);
+            }
+            catch (ArgumentsException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
         [HttpGet("getAllBorrows")]
-        public async Task<IActionResult> GetAllBorrows()
+        public async Task<ActionResult> GetAllBorrows()
         {
 
             try
@@ -81,7 +113,7 @@ namespace UserManagement.Controllers
             }
         }
         [HttpGet("getUserBorrows")]
-        public async Task<IActionResult> GetUserBorrows()
+        public async Task<ActionResult> GetUserBorrows()
         {
             try
             {

@@ -349,3 +349,171 @@
 2024-08-21 17:58:06,936 [70] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
 2024-08-21 18:19:27,974 [66] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
 2024-08-21 18:20:58,063 [66] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Elizabath login successfully.
+2024-08-22 10:42:32,583 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 11:24:12,769 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 11:27:30,901 [16] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 11:29:41,397 [24] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 11:34:45,205 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 11:35:52,446 [9] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 11:55:17,749 [5] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 12:01:04,538 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 12:01:28,779 [5] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 12:04:53,020 [3] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 12:10:16,397 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 12:10:53,343 [15] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 12:17:32,023 [26] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 12:34:28,687 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 12:35:10,261 [5] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 14:26:24,037 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 14:28:19,953 [5] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 14:30:11,848 [16] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 14:30:58,697 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 14:34:40,264 [5] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 14:40:00,706 [15] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 14:45:22,053 [30] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username ELizabath login successfully.
+2024-08-22 15:22:45,746 [46] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 15:31:35,685 [49] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 15:38:29,163 [49] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 15:39:11,083 [44] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 15:42:24,701 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 15:42:57,733 [7] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 15:46:35,407 [18] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 15:48:03,362 [18] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 17:00:48,443 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 17:02:53,450 [18] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 17:08:05,705 [3] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 18:08:27,989 [44] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 18:08:31,000 [45] INFO OrderManagement.Services.UserServices.MoveNext[44] - The contents of the User DB is retrieved
+2024-08-22 18:09:12,411 [38] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 18:12:51,758 [34] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 18:12:53,687 [54] INFO OrderManagement.Services.UserServices.MoveNext[44] - The contents of the User DB is retrieved
+2024-08-22 18:39:14,855 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-22 18:51:03,124 [16] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 18:51:03,124 [17] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 18:53:54,701 [18] INFO OrderManagement.Services.UserServices.MoveNext[44] - The contents of the User DB is retrieved
+2024-08-22 18:54:24,967 [16] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-22 18:56:07,061 [14] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Elizabath login successfully.
+2024-08-23 11:11:39,371 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-23 11:13:31,220 [17] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 11:16:14,192 [22] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 11:31:53,980 [23] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 11:49:04,385 [26] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 12:02:47,364 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-23 12:13:28,205 [3] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 12:14:12,555 [10] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 14:26:46,668 [13] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 14:58:28,784 [13] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 15:17:04,020 [10] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 15:54:44,435 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-23 16:49:25,857 [20] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 16:49:25,857 [7] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 17:46:52,694 [139] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 17:52:31,554 [143] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 18:08:55,531 [127] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-23 18:31:21,186 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-23 18:37:27,382 [19] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 12:07:04,871 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-26 12:13:49,068 [10] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 12:30:01,040 [36] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 12:36:35,653 [39] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 12:52:44,847 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-26 13:00:48,959 [15] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 14:03:34,568 [26] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 14:16:50,243 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-26 14:18:54,419 [3] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 14:24:31,979 [7] DEBUG OrderManagement.Services.UserServices.MoveNext[98] - Unable to authenticate user Maria
+2024-08-26 14:24:45,726 [10] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-26 15:12:23,864 [94] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 15:23:08,440 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-26 15:25:40,897 [17] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 15:33:22,799 [29] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-26 15:47:30,197 [27] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 15:50:06,878 [27] DEBUG OrderManagement.Services.UserServices.MoveNext[98] - Unable to authenticate user Elizabath
+2024-08-26 15:50:22,536 [27] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-26 16:49:21,520 [41] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 16:54:27,818 [45] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 17:02:24,367 [39] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-26 17:06:00,807 [35] DEBUG OrderManagement.Services.UserServices.MoveNext[98] - Unable to authenticate user Yadu
+2024-08-26 17:06:21,119 [38] DEBUG OrderManagement.Services.UserServices.MoveNext[98] - Unable to authenticate user Yadu
+2024-08-26 17:06:42,791 [35] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-26 17:09:56,245 [33] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-26 17:25:07,088 [37] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-26 17:29:13,368 [17] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-26 17:53:00,258 [40] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-26 17:58:10,431 [34] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-26 18:03:01,542 [22] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 10:29:15,120 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-27 10:29:51,332 [5] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 10:36:51,754 [7] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 10:46:51,075 [35] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 11:11:17,740 [38] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 11:12:33,401 [32] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-27 11:16:50,848 [37] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 11:17:35,327 [37] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Elizabath login successfully.
+2024-08-27 11:18:37,718 [36] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 11:26:17,921 [19] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 11:38:59,725 [22] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 11:46:30,115 [29] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Elizabath login successfully.
+2024-08-27 11:47:07,783 [25] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 11:53:27,683 [37] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 11:53:41,241 [26] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Elizabath login successfully.
+2024-08-27 11:56:36,944 [31] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 12:12:51,290 [25] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 12:18:32,872 [28] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 12:34:15,833 [61] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 12:40:49,573 [20] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 12:41:47,113 [59] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 12:50:50,057 [25] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 12:59:43,185 [28] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 13:54:24,047 [9] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 14:03:30,425 [52] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 15:33:19,006 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-27 17:08:28,525 [33] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 17:08:28,525 [27] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 17:16:36,762 [24] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-27 17:19:11,929 [34] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 17:20:02,231 [29] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 17:31:47,691 [9] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 17:54:55,929 [30] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 17:55:59,413 [30] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 18:24:07,098 [28] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 18:29:36,613 [21] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-27 18:41:40,273 [33] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 10:17:07,147 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-28 10:18:53,797 [14] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 10:18:53,797 [5] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 10:21:06,287 [18] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 10:36:15,460 [22] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 11:27:02,549 [14] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 11:44:02,218 [18] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 11:59:40,500 [55] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 12:17:29,959 [49] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 12:45:42,423 [14] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 13:20:17,131 [42] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 13:41:52,773 [52] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 13:52:25,049 [41] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 13:54:20,620 [41] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 14:09:39,643 [58] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 14:27:08,782 [51] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 14:58:52,292 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-28 15:43:04,500 [13] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 15:57:18,984 [25] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 15:59:44,765 [30] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 16:00:47,912 [30] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 16:41:23,756 [41] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 16:49:01,658 [33] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 16:51:15,846 [23] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 16:52:23,137 [4] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 17:05:05,605 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-28 17:05:56,885 [5] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 17:11:22,682 [9] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 17:16:35,457 [17] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 17:23:59,547 [27] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 17:25:36,745 [9] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.
+2024-08-28 17:33:15,091 [1] INFO Program.<Main>$[17] - Application started.
+2024-08-28 17:39:42,262 [16] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 17:56:29,054 [16] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 18:12:57,706 [50] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 18:19:58,774 [35] INFO OrderManagement.Services.UserServices.MoveNext[103] - User with username Yadu login successfully.
+2024-08-28 18:33:05,708 [20] DEBUG OrderManagement.Services.UserServices.MoveNext[0] - Unable to authenticate user Yadu
+2024-08-28 18:33:27,653 [7] INFO OrderManagement.Services.UserServices.MoveNext[0] - User with username Yadu login successfully.

@@ -1,4 +1,5 @@
-﻿using LibraryManagement.Exceptions;
+﻿using LibraryManagement.DTOs;
+using LibraryManagement.Exceptions;
 using LibraryManagement.Interfaces;
 using LibraryManagement.Models;
 using Microsoft.AspNetCore.Authorization;
@@ -99,7 +100,7 @@ namespace LibraryManagement.Controllers
         [Authorize(Roles = "Admin")]
         [HttpPost]
         [Route("addBook")]
-        public async Task<ActionResult<Book>> AddBook(Book request)
+        public async Task<ActionResult<Book>> AddBook(BookDto request)
         {
             var books = await iservice.AddBook(request);
             return Ok(books);
@@ -109,7 +110,7 @@ namespace LibraryManagement.Controllers
         [Authorize(Roles = "Admin")]
         [HttpPut]
         [Route("updateBook")]
-        public async Task<ActionResult<Book>> UpdateBook(Book request)
+        public async Task<ActionResult<Book>> UpdateBook(BookDto request)
         {
             try
             {
@@ -159,11 +160,11 @@ namespace LibraryManagement.Controllers
         [Authorize(Roles = "Admin")]
         [HttpPost]
         [Route("bulkUploadDynamic")]
-        public async Task<ActionResult<string>> BulkUploadDynamic(FormFile fileName)
+        public async Task<ActionResult<string>> BulkUploadDynamic(IFormFile file)
         {
             try
             {
-                var response = await iservice.BulkUploadDynamic(fileName);
+                var response = await iservice.BulkUploadDynamic(file);
                 return Ok(response);
             }
             catch (CSVException ex)
