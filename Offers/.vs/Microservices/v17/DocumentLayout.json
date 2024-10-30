@@ -1,0 +1,911 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P10\\source\\repos\\Offers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\services\\saleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\saleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\interfaces\\isalesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\interfaces\\isalesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\dtos\\booksaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\booksaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\services\\libraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\libraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Model\\LibraryManagementContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagement\\Model\\LibraryManagementContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\services\\cartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\services\\cartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\interfaces\\ilibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\interfaces\\ilibraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\interfaces\\icartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\interfaces\\icartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\dtos\\bookimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\bookimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\services\\communicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\services\\communicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\interfaces\\icommunicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\interfaces\\icommunicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\services\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\services\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Model\\LibraryManagementContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\exceptions\\csvexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\exceptions\\csvexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\migrations\\20240807102425_addnamehinditouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\migrations\\20240807102425_addnamehinditouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\exceptions\\argumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\exceptions\\argumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\usermanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\usermanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\librarymanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\librarymanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\usermanagement\\exceptions\\argumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFA0B25-EB0C-4EEC-807A-3A0C43A3FF4A}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\exceptions\\argumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\exceptions\\csvexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\exceptions\\csvexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\P10\\source\\repos\\Microservices\\LibraryManagement\\Migrations\\20240717090125_Books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\P10\\source\\repos\\Microservices\\LibraryManagement\\Migrations\\20240717085151_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\p10\\source\\repos\\offers\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D55E9CA-FDEE-4450-A4FE-9EE5E6CECE06}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:35:37.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\DTOs\\SaleDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTOs\\SaleDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\DTOs\\SaleDto.cs",
+              "RelativeToolTip": "LibraryManagement\\DTOs\\SaleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:43:27.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Services\\LibraryServices.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\LibraryServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Services\\LibraryServices.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\LibraryServices.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAlwJUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:11:52.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:53:14.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookSaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\DTOs\\BookSaleDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTOs\\BookSaleDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\DTOs\\BookSaleDto.cs",
+              "RelativeToolTip": "LibraryManagement\\DTOs\\BookSaleDto.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:26:50.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Services\\SaleServices.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\SaleServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Services\\SaleServices.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\SaleServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:18:24.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISalesServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Interfaces\\ISalesServices.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Interfaces\\ISalesServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Interfaces\\ISalesServices.cs",
+              "RelativeToolTip": "LibraryManagement\\Interfaces\\ISalesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:17:38.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\SaleController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAUwEYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:10:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Models\\LibraryManagementContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\LibraryManagementContext.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Models\\LibraryManagementContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\LibraryManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:35:48.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILibraryServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Interfaces\\ILibraryServices.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Interfaces\\ILibraryServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Interfaces\\ILibraryServices.cs",
+              "RelativeToolTip": "LibraryManagement\\Interfaces\\ILibraryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:31:48.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Program.cs",
+              "RelativeToolTip": "UserManagement\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:09:41.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Models\\Sale.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:36:04.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Model\\LibraryManagementContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\LibraryManagementContext.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Model\\LibraryManagementContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\LibraryManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:33:31.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Services\\CartServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Services\\CartServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Services\\CartServices.cs",
+              "RelativeToolTip": "UserManagement\\Services\\CartServices.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:35:28.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Controllers\\CartController.cs",
+              "RelativeToolTip": "UserManagement\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAuwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:25:09.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:15:16.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\DTOs\\BookImageDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTOs\\BookImageDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\DTOs\\BookImageDto.cs",
+              "RelativeToolTip": "LibraryManagement\\DTOs\\BookImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:26:43.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "LibraryManagement\\DTOs\\BookDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA0wA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:31:21.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICartServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Interfaces\\ICartServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Interfaces\\ICartServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Interfaces\\ICartServices.cs",
+              "RelativeToolTip": "UserManagement\\Interfaces\\ICartServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:38:27.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommunicationServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Services\\CommunicationServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Services\\CommunicationServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Services\\CommunicationServices.cs",
+              "RelativeToolTip": "UserManagement\\Services\\CommunicationServices.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA0wGkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:19:24.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICommunicationServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Interfaces\\ICommunicationServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Interfaces\\ICommunicationServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Interfaces\\ICommunicationServices.cs",
+              "RelativeToolTip": "UserManagement\\Interfaces\\ICommunicationServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:55:36.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LibraryManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Models\\LibraryManagementContext.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\LibraryManagementContext.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Models\\LibraryManagementContext.cs",
+              "RelativeToolTip": "UserManagement\\Models\\LibraryManagementContext.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:41:54.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "UserManagement\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:02:02.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Services\\UserServices.cs",
+              "RelativeToolTip": "UserManagement\\Services\\UserServices.cs",
+              "ViewState": "AQIAAJQBAAAAAAAAAAAuwKwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:02:37.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Services\\JwtTokenHandler.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Services\\JwtTokenHandler.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Services\\JwtTokenHandler.cs",
+              "RelativeToolTip": "UserManagement\\Services\\JwtTokenHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:52:03.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Middleware\\Middleware.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Middleware\\Middleware.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Middleware\\Middleware.cs",
+              "RelativeToolTip": "LibraryManagement\\Middleware\\Middleware.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwEEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:40:59.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Models\\User.cs",
+              "RelativeToolTip": "UserManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:41:58.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\DTOs\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "UserManagement\\DTOs\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\DTOs\\RegisterRequestDto.cs",
+              "RelativeToolTip": "UserManagement\\DTOs\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:42:18.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Models\\Cart.cs",
+              "RelativeToolTip": "UserManagement\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:41:44.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagement\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAuwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:01:57.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Interfaces\\IUserServices.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Interfaces\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Interfaces\\IUserServices.cs",
+              "RelativeToolTip": "UserManagement\\Interfaces\\IUserServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:19:36.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Models\\Borrow.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\Borrow.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Models\\Borrow.cs",
+              "RelativeToolTip": "UserManagement\\Models\\Borrow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:41:36.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LibraryManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Model\\LibraryManagementContext.cs",
+              "RelativeDocumentMoniker": "..\\Roles\\UserManagement\\Model\\LibraryManagementContext.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Roles\\UserManagement\\Model\\LibraryManagementContext.cs",
+              "RelativeToolTip": "..\\Roles\\UserManagement\\Model\\LibraryManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:36:54.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Models\\CartItem.cs",
+              "RelativeToolTip": "UserManagement\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:41:50.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "UserManagement\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "UserManagement\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:06:35.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "UserManagement\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "UserManagement\\DTOs\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:12:31.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IdNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Exceptions\\IdNotFoundException.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Exceptions\\IdNotFoundException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Exceptions\\IdNotFoundException.cs",
+              "RelativeToolTip": "UserManagement\\Exceptions\\IdNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:35:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CSVException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Exceptions\\CSVException.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Exceptions\\CSVException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Exceptions\\CSVException.cs",
+              "RelativeToolTip": "UserManagement\\Exceptions\\CSVException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:35:33.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240807102425_AddNameHindiToUser.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Migrations\\20240807102425_AddNameHindiToUser.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Migrations\\20240807102425_AddNameHindiToUser.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Migrations\\20240807102425_AddNameHindiToUser.cs",
+              "RelativeToolTip": "UserManagement\\Migrations\\20240807102425_AddNameHindiToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:36:59.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ArgumentsException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Exceptions\\ArgumentsException.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Exceptions\\ArgumentsException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Exceptions\\ArgumentsException.cs",
+              "RelativeToolTip": "LibraryManagement\\Exceptions\\ArgumentsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:20:37.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\log4net.config",
+              "RelativeDocumentMoniker": "UserManagement\\log4net.config",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\log4net.config",
+              "RelativeToolTip": "UserManagement\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-18T13:17:47.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\log4net.config",
+              "RelativeDocumentMoniker": "LibraryManagement\\log4net.config",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\log4net.config",
+              "RelativeToolTip": "LibraryManagement\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-18T13:17:31.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UserManagement\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\appsettings.Development.json",
+              "RelativeToolTip": "UserManagement\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T13:03:36.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\appsettings.json",
+              "RelativeToolTip": "UserManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T07:09:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LibraryManagement\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAABUwBoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T07:44:17.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LibraryManagement",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement\\LibraryManagement.csproj",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeToolTip": "LibraryManagement\\LibraryManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T07:43:46.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserManagement",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\UserManagement.csproj",
+              "RelativeDocumentMoniker": "UserManagement\\UserManagement.csproj",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\UserManagement.csproj",
+              "RelativeToolTip": "UserManagement\\UserManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T07:45:19.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserManagement\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAABUwBoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T07:45:25.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ArgumentsException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Exceptions\\ArgumentsException.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Exceptions\\ArgumentsException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\UserManagement\\Exceptions\\ArgumentsException.cs",
+              "RelativeToolTip": "UserManagement\\Exceptions\\ArgumentsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:35:15.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CSVException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Exceptions\\CSVException.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Exceptions\\CSVException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Exceptions\\CSVException.cs",
+              "RelativeToolTip": "LibraryManagement\\Exceptions\\CSVException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:21:50.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IdNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Exceptions\\IdNotFoundException.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Exceptions\\IdNotFoundException.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\Exceptions\\IdNotFoundException.cs",
+              "RelativeToolTip": "LibraryManagement\\Exceptions\\IdNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:22:13.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LibraryManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement\\LibraryManagement.csproj",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Offers\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeToolTip": "LibraryManagement\\LibraryManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T07:01:44.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240717090125_Books.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Microservices\\LibraryManagement\\Migrations\\20240717090125_Books.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\LibraryManagement\\Migrations\\20240717090125_Books.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Microservices\\LibraryManagement\\Migrations\\20240717090125_Books.cs",
+              "RelativeToolTip": "..\\Microservices\\LibraryManagement\\Migrations\\20240717090125_Books.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:01:25.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240717085151_First.cs",
+              "DocumentMoniker": "C:\\Users\\P10\\source\\repos\\Microservices\\LibraryManagement\\Migrations\\20240717085151_First.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\LibraryManagement\\Migrations\\20240717085151_First.cs",
+              "ToolTip": "C:\\Users\\P10\\source\\repos\\Microservices\\LibraryManagement\\Migrations\\20240717085151_First.cs",
+              "RelativeToolTip": "..\\Microservices\\LibraryManagement\\Migrations\\20240717085151_First.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:51:51.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
